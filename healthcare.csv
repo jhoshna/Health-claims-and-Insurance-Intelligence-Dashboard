@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Disease_Name,Disease_Type,Claim_Type,Provider_Name,Hospital_Name,CPT_Code,Claim_Amount_USD,Insurance_Payment_Percentage,Insurance_Payment_USD,Patient_Payment_USD,Admission_Date,Discharge_Date
+221958,69,Male,Heart Failure,Critical,Medicare,PrimeCare Hospital,St. Mary Medical Center,86850,4349.29,0.72,3131.49,1217.8,28-10-2023,01-11-2023
+291335,41,Other,Arthritis,Chronic,Medicare,CityCare Specialists,MountainView Health,93333,1522.19,0.98,1491.75,30.44,30-03-2023,11-04-2023
+447449,39,Male,Influenza,Infectious,Medicare,ABC Health Clinic,MountainView Health,94118,29522.08,0.72,21255.9,8266.18,08-10-2021,13-10-2021
+356840,56,Female,Pneumonia,Acute,Medicare,CityCare Specialists,St. Mary Medical Center,81016,1955.04,0.61,1192.57,762.47,01-04-2020,13-04-2020
+672843,25,Other,Asthma,Chronic,Medicaid,Metro Hospital,MountainView Health,71585,20381.89,0.65,13248.23,7133.66,14-11-2023,20-11-2023
+441097,21,Female,Diabetes Type 2,Chronic,Medicaid,CityCare Specialists,St. Mary Medical Center,96557,27909.78,0.85,23723.31,4186.47,18-07-2023,26-07-2023
+664685,79,Male,Diabetes Type 2,Chronic,Commercial,PrimeCare Hospital,St. Mary Medical Center,91243,18800.48,0.63,11844.3,6956.18,26-03-2023,08-04-2023
+476896,88,Male,Heart Failure,Critical,Medicare,BlueRiver Medical,Riverside Hospital,92002,21645.43,0.85,18398.62,3246.81,15-10-2020,26-10-2020
+400804,58,Other,Influenza,Infectious,Employer Plan,CityCare Specialists,General Hospital,93599,12068.32,0.82,9896.02,2172.3,15-03-2022,18-03-2022
+556551,52,Male,Asthma,Chronic,Medicare,ABC Health Clinic,General Hospital,87412,17496.4,0.87,15221.87,2274.53,20-05-2022,31-05-2022
+219176,32,Female,COVID-19,Infectious,Employer Plan,ABC Health Clinic,General Hospital,78755,17553.35,0.83,14569.28,2984.07,29-04-2021,06-05-2021
+827270,32,Other,Pneumonia,Acute,Medicare,Evergreen Health,Riverside Hospital,97890,6094.81,0.95,5790.07,304.74,10-07-2021,19-07-2021
+209556,23,Female,COVID-19,Infectious,Commercial,Sunrise Health,Golden Valley Hospital,93776,9255.77,0.81,7497.17,1758.6,24-09-2021,28-09-2021
+227948,20,Other,Arthritis,Chronic,Employer Plan,Sunrise Health,Golden Valley Hospital,73748,21234.43,0.63,13377.69,7856.74,25-10-2021,05-11-2021
+979989,49,Male,Pneumonia,Acute,Medicare,Metro Hospital,St. Mary Medical Center,99235,8535.97,0.83,7084.86,1451.11,11-11-2023,12-11-2023
+691460,73,Male,Hypertension,Chronic,Medicaid,CityCare Specialists,MountainView Health,83877,2441.95,0.67,1636.11,805.84,19-01-2021,22-01-2021
+277789,19,Male,COVID-19,Infectious,Employer Plan,Unity Clinic,MountainView Health,89894,23206.16,0.61,14155.76,9050.4,05-02-2022,11-02-2022
+561079,86,Female,Arthritis,Chronic,Medicaid,Metro Hospital,General Hospital,79339,15983.67,0.83,13266.45,2717.22,21-10-2021,02-11-2021
+418394,53,Other,COVID-19,Infectious,Commercial,ABC Health Clinic,MountainView Health,72911,4241.03,0.95,4028.98,212.05,04-07-2021,06-07-2021
+373255,18,Other,Influenza,Infectious,Medicare,CityCare Specialists,Golden Valley Hospital,97945,8851.34,0.82,7258.1,1593.24,11-12-2020,20-12-2020
+247443,77,Male,Diabetes Type 2,Chronic,Medicare,PrimeCare Hospital,City Medical Plaza,99855,19543.39,0.66,12898.64,6644.75,27-01-2023,30-01-2023
+639439,20,Female,Heart Failure,Critical,Medicare,BlueRiver Medical,MountainView Health,82874,28165.6,0.88,24785.73,3379.87,13-04-2020,17-04-2020
+616349,42,Male,Diabetes Type 2,Chronic,Employer Plan,CityCare Specialists,St. Mary Medical Center,72869,14280.09,0.98,13994.49,285.6,09-06-2020,13-06-2020
+909760,31,Male,Pneumonia,Acute,Employer Plan,BlueRiver Medical,Riverside Hospital,90880,10279.73,0.76,7812.59,2467.14,12-08-2022,15-08-2022
+538741,39,Female,Arthritis,Chronic,Medicaid,ABC Health Clinic,Golden Valley Hospital,75895,19487.45,0.88,17148.96,2338.49,08-03-2022,09-03-2022
+469599,86,Male,Asthma,Chronic,Employer Plan,ABC Health Clinic,General Hospital,77679,6547.65,0.95,6220.27,327.38,21-04-2021,26-04-2021
+929957,54,Male,Hypertension,Chronic,Medicaid,PrimeCare Hospital,Riverside Hospital,70699,25810.77,0.64,16518.89,9291.88,07-09-2022,14-09-2022
+805696,84,Female,Influenza,Infectious,Medicaid,Unity Clinic,St. Mary Medical Center,75442,17746.74,0.55,9760.71,7986.03,04-08-2023,10-08-2023
+118070,83,Other,COVID-19,Infectious,Medicaid,Metro Hospital,General Hospital,77560,21520.8,0.67,14418.94,7101.86,28-01-2022,07-02-2022
+335362,67,Male,Heart Failure,Critical,Medicare,Evergreen Health,General Hospital,82323,24251.41,0.81,19643.64,4607.77,26-05-2021,07-06-2021
+712210,32,Female,Diabetes Type 2,Chronic,Employer Plan,Evergreen Health,Golden Valley Hospital,90530,14769.54,0.76,11224.85,3544.69,22-02-2023,28-02-2023
+155609,75,Female,Hypertension,Chronic,Employer Plan,Unity Clinic,Golden Valley Hospital,85338,5121.22,0.75,3840.91,1280.31,12-12-2022,24-12-2022
+103051,22,Other,Pneumonia,Acute,Medicaid,Regional Health Center,Golden Valley Hospital,74142,21436.1,0.57,12218.58,9217.52,17-10-2021,30-10-2021
+333841,47,Other,Hypertension,Chronic,Employer Plan,ABC Health Clinic,MountainView Health,75177,3736.01,0.51,1905.37,1830.64,26-04-2020,03-05-2020
+494366,26,Male,Hypertension,Chronic,Medicaid,Metro Hospital,St. Mary Medical Center,83407,17152.96,0.84,14408.49,2744.47,02-05-2021,15-05-2021
+738836,18,Male,Fracture - Arm,Injury,Employer Plan,PrimeCare Hospital,Golden Valley Hospital,93388,13458.6,0.62,8344.33,5114.27,29-12-2023,03-01-2024
+303861,74,Male,Migraine,Neurological,Commercial,Metro Hospital,Golden Valley Hospital,83245,21554.25,0.73,15734.6,5819.65,05-08-2020,15-08-2020
+790607,56,Male,Migraine,Neurological,Commercial,Unity Clinic,City Medical Plaza,72849,8935.47,0.51,4557.09,4378.38,17-03-2021,18-03-2021
+404119,86,Male,Pneumonia,Acute,Employer Plan,BlueRiver Medical,St. Mary Medical Center,99168,26215.17,0.81,21234.29,4980.88,01-05-2022,09-05-2022
+814635,67,Other,Hypertension,Chronic,Medicare,ABC Health Clinic,Riverside Hospital,92116,19339.28,0.89,17211.96,2127.32,06-04-2023,16-04-2023
+707274,61,Male,Diabetes Type 2,Chronic,Medicare,ABC Health Clinic,St. Mary Medical Center,72082,11091.8,0.81,8984.36,2107.44,27-08-2021,06-09-2021
+437497,51,Other,Influenza,Infectious,Commercial,Regional Health Center,St. Mary Medical Center,94052,11427.59,0.95,10856.21,571.38,31-10-2023,04-11-2023
+160692,53,Female,Migraine,Neurological,Medicare,BlueRiver Medical,Riverside Hospital,86048,22351.96,0.56,12517.1,9834.86,05-10-2022,12-10-2022
+844086,79,Male,Hypertension,Chronic,Commercial,Evergreen Health,General Hospital,72914,4439.03,0.93,4128.3,310.73,02-03-2020,06-03-2020
+278031,30,Other,Asthma,Chronic,Medicare,Regional Health Center,MountainView Health,77400,25643.58,0.67,17181.2,8462.38,18-12-2021,22-12-2021
+940530,33,Male,Migraine,Neurological,Commercial,Sunrise Health,MountainView Health,81130,7562.75,0.95,7184.61,378.14,13-03-2023,22-03-2023
+887494,70,Female,COVID-19,Infectious,Commercial,PrimeCare Hospital,Riverside Hospital,75334,17058.6,0.84,14329.22,2729.38,20-01-2022,01-02-2022
+279208,75,Male,Arthritis,Chronic,Commercial,BlueRiver Medical,St. Mary Medical Center,97569,26919.06,0.57,15343.86,11575.2,29-01-2020,03-02-2020
+416837,25,Male,Hypertension,Chronic,Medicaid,Regional Health Center,General Hospital,95086,27369.27,0.78,21348.03,6021.24,29-12-2022,10-01-2023
+119870,36,Male,Arthritis,Chronic,Commercial,ABC Health Clinic,Golden Valley Hospital,81714,8729.94,0.69,6023.66,2706.28,17-12-2022,21-12-2022
+811131,89,Male,Influenza,Infectious,Commercial,Metro Hospital,Riverside Hospital,80188,8268.93,0.69,5705.56,2563.37,24-10-2023,02-11-2023
+920023,50,Female,Migraine,Neurological,Medicaid,PrimeCare Hospital,Golden Valley Hospital,97860,29799.5,0.54,16091.73,13707.77,04-06-2023,07-06-2023
+375987,74,Female,Influenza,Infectious,Medicare,Metro Hospital,City Medical Plaza,81829,18152.96,0.93,16882.25,1270.71,28-08-2022,09-09-2022
+986089,33,Female,Heart Failure,Critical,Employer Plan,PrimeCare Hospital,St. Mary Medical Center,83659,19935.18,0.69,13755.27,6179.91,01-09-2023,03-09-2023
+395451,58,Other,Arthritis,Chronic,Commercial,Metro Hospital,General Hospital,83216,13219.39,0.79,10443.32,2776.07,21-01-2022,03-02-2022
+651820,63,Other,Arthritis,Chronic,Medicaid,ABC Health Clinic,City Medical Plaza,88222,27696.53,0.54,14956.13,12740.4,08-03-2022,10-03-2022
+418714,22,Other,Heart Failure,Critical,Medicare,Unity Clinic,General Hospital,72193,29637.37,0.57,16893.3,12744.07,02-05-2022,12-05-2022
+235230,76,Other,Hypertension,Chronic,Medicare,Metro Hospital,St. Mary Medical Center,80344,13322.36,0.63,8393.09,4929.27,02-04-2022,08-04-2022
+374907,86,Other,Migraine,Neurological,Medicaid,ABC Health Clinic,City Medical Plaza,93574,23416.14,0.95,22245.33,1170.81,21-01-2024,24-01-2024
+244528,18,Other,Pneumonia,Acute,Medicaid,Metro Hospital,General Hospital,82775,19116.65,0.67,12808.16,6308.49,31-12-2022,07-01-2023
+900921,51,Female,Arthritis,Chronic,Commercial,CityCare Specialists,MountainView Health,80176,17229.34,0.77,13266.59,3962.75,01-02-2022,10-02-2022
+581680,64,Other,Migraine,Neurological,Medicare,CityCare Specialists,Riverside Hospital,90914,27239.81,0.8,21791.85,5447.96,07-01-2022,13-01-2022
+863185,47,Other,Asthma,Chronic,Commercial,CityCare Specialists,MountainView Health,98920,16148.7,0.88,14210.86,1937.84,16-10-2022,23-10-2022
+807689,68,Male,Migraine,Neurological,Medicare,Regional Health Center,St. Mary Medical Center,92711,25499.61,0.87,22184.66,3314.95,10-09-2022,15-09-2022
+323777,23,Male,Diabetes Type 2,Chronic,Medicare,ABC Health Clinic,General Hospital,94214,5149.31,0.57,2935.11,2214.2,29-10-2023,06-11-2023
+682531,21,Male,Asthma,Chronic,Employer Plan,ABC Health Clinic,Riverside Hospital,74188,29233.64,0.79,23094.58,6139.06,10-12-2022,13-12-2022
+157108,22,Female,COVID-19,Infectious,Medicare,Unity Clinic,City Medical Plaza,76981,4938.12,0.72,3555.45,1382.67,11-12-2020,13-12-2020
+470608,62,Other,Influenza,Infectious,Medicaid,Sunrise Health,General Hospital,80453,3830.13,0.92,3523.72,306.41,10-04-2022,23-04-2022
+759792,43,Male,Heart Failure,Critical,Medicare,ABC Health Clinic,City Medical Plaza,92195,7466.46,0.68,5077.19,2389.27,26-12-2021,05-01-2022
+915131,19,Male,COVID-19,Infectious,Medicaid,BlueRiver Medical,Riverside Hospital,75126,21084.22,0.91,19186.64,1897.58,28-12-2020,09-01-2021
+218033,55,Other,Asthma,Chronic,Commercial,Sunrise Health,City Medical Plaza,80267,2072.03,0.65,1346.82,725.21,08-06-2023,14-06-2023
+550009,61,Male,Hypertension,Chronic,Medicare,Regional Health Center,General Hospital,79795,11620.47,0.81,9412.58,2207.89,15-03-2023,19-03-2023
+126069,51,Other,Heart Failure,Critical,Employer Plan,Metro Hospital,MountainView Health,76738,12295.02,0.66,8114.71,4180.31,22-11-2021,02-12-2021
+672735,76,Other,Arthritis,Chronic,Medicare,Sunrise Health,General Hospital,87844,4400.8,0.57,2508.46,1892.34,15-09-2021,19-09-2021
+287210,79,Female,Heart Failure,Critical,Commercial,Sunrise Health,Riverside Hospital,94818,2019.91,0.83,1676.53,343.38,08-07-2022,14-07-2022
+746465,21,Other,Arthritis,Chronic,Medicaid,Metro Hospital,Golden Valley Hospital,88935,22102.54,0.89,19671.26,2431.28,12-07-2020,23-07-2020
+441383,43,Other,Migraine,Neurological,Medicaid,Unity Clinic,MountainView Health,96386,7185.95,0.85,6108.06,1077.89,19-05-2020,20-05-2020
+204537,31,Female,Migraine,Neurological,Medicaid,Regional Health Center,City Medical Plaza,88410,18425.67,0.68,12529.46,5896.21,10-01-2020,15-01-2020
+712246,27,Female,Heart Failure,Critical,Medicaid,Regional Health Center,General Hospital,71342,20922.83,0.86,17993.63,2929.2,29-06-2022,07-07-2022
+722117,52,Female,Hypertension,Chronic,Medicare,CityCare Specialists,Golden Valley Hospital,71908,22329.72,0.95,21213.23,1116.49,10-08-2021,13-08-2021
+486594,18,Female,Heart Failure,Critical,Commercial,Sunrise Health,City Medical Plaza,92797,24286.81,0.9,21858.13,2428.68,03-04-2023,08-04-2023
+512498,43,Female,Pneumonia,Acute,Medicare,Sunrise Health,St. Mary Medical Center,80535,14380.54,0.84,12079.65,2300.89,10-03-2022,13-03-2022
+435484,55,Male,Fracture - Arm,Injury,Commercial,Metro Hospital,General Hospital,72192,27137.88,0.68,18453.76,8684.12,31-03-2022,08-04-2022
+192263,68,Other,Asthma,Chronic,Medicaid,Unity Clinic,Riverside Hospital,87586,11044.81,0.57,6295.54,4749.27,04-11-2022,17-11-2022
+367552,44,Male,Arthritis,Chronic,Medicare,Metro Hospital,City Medical Plaza,87334,5579.15,0.6,3347.49,2231.66,31-05-2021,11-06-2021
+274944,55,Male,Pneumonia,Acute,Medicare,BlueRiver Medical,MountainView Health,77863,15815.22,0.76,12019.57,3795.65,26-03-2023,30-03-2023
+463339,62,Female,Asthma,Chronic,Commercial,Regional Health Center,MountainView Health,70793,8676.27,0.67,5813.1,2863.17,11-01-2020,21-01-2020
+700613,23,Other,COVID-19,Infectious,Medicaid,BlueRiver Medical,Golden Valley Hospital,81473,18926.45,0.51,9652.49,9273.96,07-04-2022,18-04-2022
+795275,85,Male,Heart Failure,Critical,Medicare,BlueRiver Medical,St. Mary Medical Center,97632,17924.22,0.79,14160.13,3764.09,10-10-2022,13-10-2022
+598716,57,Male,Arthritis,Chronic,Commercial,Evergreen Health,General Hospital,81053,8223.32,0.58,4769.53,3453.79,23-02-2021,01-03-2021
+479862,74,Male,Arthritis,Chronic,Commercial,ABC Health Clinic,City Medical Plaza,81694,3060.71,0.66,2020.07,1040.64,30-12-2023,08-01-2024
+984377,58,Other,Pneumonia,Acute,Medicare,Unity Clinic,St. Mary Medical Center,78070,11388.17,0.85,9679.94,1708.23,01-10-2021,12-10-2021
+666202,68,Female,Heart Failure,Critical,Medicare,Evergreen Health,MountainView Health,82997,2465.56,0.65,1602.61,862.95,11-10-2020,22-10-2020
+891189,43,Female,Migraine,Neurological,Medicare,Evergreen Health,General Hospital,83395,14581.19,0.77,11227.52,3353.67,07-12-2020,19-12-2020
+776926,78,Male,Fracture - Arm,Injury,Medicare,Evergreen Health,Riverside Hospital,94442,24293.79,0.67,16276.84,8016.95,31-10-2021,13-11-2021
+841804,47,Other,Diabetes Type 2,Chronic,Medicare,ABC Health Clinic,St. Mary Medical Center,98865,16731.99,0.73,12214.35,4517.64,30-05-2023,05-06-2023
+951587,18,Male,Fracture - Arm,Injury,Commercial,ABC Health Clinic,St. Mary Medical Center,71481,27076.77,0.75,20307.58,6769.19,27-03-2020,03-04-2020
+730235,49,Female,Fracture - Arm,Injury,Medicare,BlueRiver Medical,General Hospital,82600,7826.21,0.61,4773.99,3052.22,18-03-2021,31-03-2021
+436199,71,Male,Migraine,Neurological,Commercial,ABC Health Clinic,General Hospital,90059,8288.21,0.55,4558.52,3729.69,05-04-2020,13-04-2020
+525037,49,Female,Pneumonia,Acute,Employer Plan,PrimeCare Hospital,Golden Valley Hospital,92996,13082.18,0.66,8634.24,4447.94,07-01-2020,17-01-2020
+354726,50,Other,Migraine,Neurological,Commercial,ABC Health Clinic,MountainView Health,87692,13510.6,0.93,12564.86,945.74,25-03-2022,30-03-2022
+187955,28,Female,Diabetes Type 2,Chronic,Commercial,Evergreen Health,MountainView Health,87939,19288.24,0.7,13501.77,5786.47,23-06-2022,25-06-2022
+238155,41,Male,COVID-19,Infectious,Medicaid,BlueRiver Medical,Riverside Hospital,94557,14925.37,0.59,8805.97,6119.4,12-02-2023,13-02-2023
+626861,26,Female,Influenza,Infectious,Commercial,Sunrise Health,Golden Valley Hospital,87685,25295.51,0.97,24536.64,758.87,17-03-2021,30-03-2021
+307980,54,Other,Arthritis,Chronic,Medicaid,PrimeCare Hospital,St. Mary Medical Center,75475,15695.59,0.53,8318.66,7376.93,22-03-2023,28-03-2023
+752665,44,Male,Arthritis,Chronic,Commercial,BlueRiver Medical,St. Mary Medical Center,84060,20453.55,0.58,11863.06,8590.49,25-11-2023,05-12-2023
+463476,79,Female,Diabetes Type 2,Chronic,Employer Plan,Unity Clinic,Riverside Hospital,98352,3859.76,0.79,3049.21,810.55,04-03-2022,17-03-2022
+681780,28,Other,Pneumonia,Acute,Medicare,Evergreen Health,Riverside Hospital,87717,15067.44,0.82,12355.3,2712.14,27-01-2022,02-02-2022
+745188,73,Male,COVID-19,Infectious,Employer Plan,Regional Health Center,Riverside Hospital,71762,25483.6,0.91,23190.08,2293.52,30-12-2020,10-01-2021
+166017,43,Female,Migraine,Neurological,Medicare,Sunrise Health,General Hospital,92144,15621.5,0.83,12965.84,2655.66,11-02-2020,20-02-2020
+375494,52,Other,Diabetes Type 2,Chronic,Medicare,ABC Health Clinic,Golden Valley Hospital,90581,18321.57,0.67,12275.45,6046.12,03-12-2022,14-12-2022
+431770,66,Male,Hypertension,Chronic,Medicaid,Sunrise Health,General Hospital,94366,3971.1,0.96,3812.26,158.84,04-12-2020,12-12-2020
+243326,38,Male,Fracture - Arm,Injury,Medicare,Unity Clinic,Golden Valley Hospital,75319,8615.54,0.73,6289.34,2326.2,03-05-2021,16-05-2021
+616142,49,Female,Fracture - Arm,Injury,Medicare,Evergreen Health,St. Mary Medical Center,93508,14986.49,0.65,9741.22,5245.27,30-11-2020,05-12-2020
+386214,26,Other,Heart Failure,Critical,Medicaid,Evergreen Health,City Medical Plaza,76737,22734.34,0.53,12049.2,10685.14,21-09-2022,23-09-2022
+349321,34,Female,Heart Failure,Critical,Commercial,CityCare Specialists,Riverside Hospital,99866,11186.44,0.85,9508.47,1677.97,29-12-2020,05-01-2021
+550062,21,Male,Arthritis,Chronic,Medicare,CityCare Specialists,General Hospital,98687,13664.29,0.92,12571.15,1093.14,13-01-2024,20-01-2024
+223618,59,Female,Fracture - Arm,Injury,Medicare,CityCare Specialists,Riverside Hospital,77206,1770.33,0.53,938.27,832.06,21-04-2021,26-04-2021
+293259,74,Other,Influenza,Infectious,Medicaid,Sunrise Health,MountainView Health,82676,22369.75,0.5,11184.88,11184.87,23-12-2023,31-12-2023
+656701,85,Female,Migraine,Neurological,Medicare,Metro Hospital,City Medical Plaza,94557,2785.37,0.55,1531.95,1253.42,29-09-2023,03-10-2023
+601946,54,Male,Migraine,Neurological,Commercial,Unity Clinic,Golden Valley Hospital,97991,14820.94,0.79,11708.54,3112.4,22-03-2023,29-03-2023
+966867,21,Other,Heart Failure,Critical,Employer Plan,Unity Clinic,City Medical Plaza,73564,4929.65,0.52,2563.42,2366.23,04-04-2022,14-04-2022
+576072,20,Female,Migraine,Neurological,Medicare,Unity Clinic,General Hospital,83832,27940.94,0.98,27382.12,558.82,22-02-2021,24-02-2021
+474999,20,Other,Arthritis,Chronic,Medicare,BlueRiver Medical,City Medical Plaza,80222,2493.66,0.93,2319.1,174.56,12-10-2023,14-10-2023
+773034,73,Other,Influenza,Infectious,Commercial,Sunrise Health,St. Mary Medical Center,95931,2509.54,0.66,1656.3,853.24,08-07-2023,19-07-2023
+412250,55,Other,Migraine,Neurological,Employer Plan,CityCare Specialists,Golden Valley Hospital,78228,7775.22,0.83,6453.43,1321.79,30-08-2022,31-08-2022
+225991,62,Female,Asthma,Chronic,Medicaid,ABC Health Clinic,St. Mary Medical Center,76183,17623.36,0.63,11102.72,6520.64,09-07-2023,17-07-2023
+369458,57,Male,Influenza,Infectious,Medicare,Sunrise Health,City Medical Plaza,83481,4516.27,0.84,3793.67,722.6,30-11-2021,07-12-2021
+294692,62,Female,Influenza,Infectious,Commercial,Evergreen Health,St. Mary Medical Center,77561,24868.49,0.61,15169.78,9698.71,22-03-2020,26-03-2020
+226209,29,Other,Diabetes Type 2,Chronic,Employer Plan,Metro Hospital,General Hospital,72064,4801.55,0.68,3265.05,1536.5,23-03-2021,31-03-2021
+425996,52,Female,Asthma,Chronic,Medicaid,Evergreen Health,St. Mary Medical Center,91736,28945.27,0.66,19103.88,9841.39,25-07-2021,30-07-2021
+827955,85,Other,Hypertension,Chronic,Employer Plan,Unity Clinic,General Hospital,78073,14996.86,0.53,7948.34,7048.52,17-02-2023,28-02-2023
+614257,67,Female,Pneumonia,Acute,Commercial,ABC Health Clinic,MountainView Health,72428,12432.95,0.53,6589.46,5843.49,22-11-2022,28-11-2022
+131598,49,Other,COVID-19,Infectious,Commercial,CityCare Specialists,Golden Valley Hospital,83025,29918.05,0.7,20942.63,8975.42,31-01-2021,09-02-2021
+313030,32,Other,Pneumonia,Acute,Employer Plan,CityCare Specialists,Golden Valley Hospital,89539,20153.57,0.63,12696.75,7456.82,28-04-2022,10-05-2022
+324695,38,Other,Migraine,Neurological,Commercial,Regional Health Center,Golden Valley Hospital,71682,9315.13,0.97,9035.68,279.45,04-07-2023,14-07-2023
+341531,55,Other,Diabetes Type 2,Chronic,Medicare,ABC Health Clinic,General Hospital,78984,21875.34,0.77,16844.01,5031.33,06-05-2021,17-05-2021
+855271,77,Female,Influenza,Infectious,Medicare,PrimeCare Hospital,Riverside Hospital,83997,16615.1,0.51,8473.7,8141.4,14-12-2020,26-12-2020
+338260,41,Female,Asthma,Chronic,Employer Plan,Sunrise Health,Golden Valley Hospital,96829,18552.33,0.79,14656.34,3895.99,04-06-2021,10-06-2021
+951887,77,Other,Arthritis,Chronic,Medicaid,PrimeCare Hospital,City Medical Plaza,72433,24230.43,0.65,15749.78,8480.65,21-12-2021,29-12-2021
+878513,81,Female,Arthritis,Chronic,Employer Plan,Sunrise Health,General Hospital,88427,23725.75,0.52,12337.39,11388.36,01-08-2020,04-08-2020
+932599,58,Male,Influenza,Infectious,Medicaid,Unity Clinic,Golden Valley Hospital,86019,11361.47,0.87,9884.48,1476.99,29-08-2020,10-09-2020
+747008,19,Male,Hypertension,Chronic,Medicare,Metro Hospital,City Medical Plaza,84451,11697.34,0.65,7603.27,4094.07,04-04-2023,11-04-2023
+853753,63,Female,Diabetes Type 2,Chronic,Commercial,CityCare Specialists,St. Mary Medical Center,79078,20605.99,0.96,19781.75,824.24,12-11-2020,15-11-2020
+495141,26,Female,Influenza,Infectious,Commercial,Sunrise Health,St. Mary Medical Center,95291,26322.62,0.84,22111,4211.62,03-09-2023,07-09-2023
+506845,24,Other,Pneumonia,Acute,Employer Plan,Regional Health Center,Golden Valley Hospital,97961,23839.23,0.73,17402.64,6436.59,24-02-2023,05-03-2023
+877915,31,Other,Diabetes Type 2,Chronic,Medicaid,Evergreen Health,MountainView Health,97532,15159.45,0.8,12127.56,3031.89,16-03-2023,23-03-2023
+694604,25,Male,Fracture - Arm,Injury,Medicare,Evergreen Health,Riverside Hospital,94363,17327.86,0.85,14728.68,2599.18,23-10-2021,28-10-2021
+889352,76,Other,COVID-19,Infectious,Commercial,ABC Health Clinic,City Medical Plaza,76236,13424.39,0.6,8054.63,5369.76,21-06-2022,03-07-2022
+619984,48,Female,Heart Failure,Critical,Employer Plan,PrimeCare Hospital,MountainView Health,97355,12074.6,0.97,11712.36,362.24,31-05-2020,02-06-2020
+478544,68,Male,Pneumonia,Acute,Medicaid,PrimeCare Hospital,St. Mary Medical Center,92015,18776.38,0.79,14833.34,3943.04,20-07-2022,26-07-2022
+915858,75,Female,Asthma,Chronic,Medicare,CityCare Specialists,City Medical Plaza,89342,8220.07,0.87,7151.46,1068.61,09-04-2020,16-04-2020
+297133,19,Other,Migraine,Neurological,Medicare,Unity Clinic,City Medical Plaza,74648,8546.09,0.92,7862.4,683.69,14-01-2020,22-01-2020
+397190,19,Other,Arthritis,Chronic,Medicare,Sunrise Health,General Hospital,94603,8856.8,0.82,7262.58,1594.22,12-01-2024,20-01-2024
+448619,73,Male,Fracture - Arm,Injury,Commercial,ABC Health Clinic,Golden Valley Hospital,86653,10930.35,0.72,7869.85,3060.5,23-04-2022,02-05-2022
+869299,25,Other,Hypertension,Chronic,Medicare,Unity Clinic,MountainView Health,79499,2545.14,0.85,2163.37,381.77,12-05-2023,17-05-2023
+323536,61,Other,Arthritis,Chronic,Employer Plan,Regional Health Center,St. Mary Medical Center,96957,3126.98,0.75,2345.24,781.74,09-11-2022,19-11-2022
+258492,18,Other,Asthma,Chronic,Medicaid,PrimeCare Hospital,City Medical Plaza,75178,10510.45,0.74,7777.73,2732.72,14-05-2023,26-05-2023
+743561,37,Male,Diabetes Type 2,Chronic,Employer Plan,CityCare Specialists,General Hospital,93857,29233.29,0.78,22801.97,6431.32,22-04-2023,03-05-2023
+430929,40,Female,Pneumonia,Acute,Commercial,Regional Health Center,St. Mary Medical Center,80985,22387.62,0.58,12984.82,9402.8,26-09-2023,27-09-2023
+600726,25,Male,Arthritis,Chronic,Medicare,Unity Clinic,St. Mary Medical Center,85552,25386.29,0.95,24116.98,1269.31,08-12-2023,10-12-2023
+128625,34,Female,Heart Failure,Critical,Commercial,BlueRiver Medical,General Hospital,99259,4723.63,0.88,4156.79,566.84,11-03-2022,12-03-2022
+525106,48,Female,Migraine,Neurological,Employer Plan,PrimeCare Hospital,General Hospital,81865,11434.35,0.58,6631.92,4802.43,04-12-2021,10-12-2021
+629992,50,Male,Influenza,Infectious,Employer Plan,Sunrise Health,City Medical Plaza,89614,22545.8,0.92,20742.14,1803.66,05-11-2023,11-11-2023
+653453,21,Female,Asthma,Chronic,Medicaid,CityCare Specialists,St. Mary Medical Center,71000,10540.08,0.92,9696.87,843.21,29-09-2023,05-10-2023
+739430,32,Male,COVID-19,Infectious,Commercial,PrimeCare Hospital,Riverside Hospital,72875,17132.24,0.79,13534.47,3597.77,05-01-2022,06-01-2022
+458690,61,Female,COVID-19,Infectious,Commercial,ABC Health Clinic,Golden Valley Hospital,93501,19155.47,0.72,13791.94,5363.53,23-10-2022,28-10-2022
+325049,89,Female,Arthritis,Chronic,Employer Plan,PrimeCare Hospital,City Medical Plaza,71177,4604.17,0.57,2624.38,1979.79,30-10-2020,04-11-2020
+766923,32,Other,Fracture - Arm,Injury,Medicaid,CityCare Specialists,MountainView Health,83178,16355.17,0.89,14556.1,1799.07,10-09-2021,17-09-2021
+159182,32,Male,Pneumonia,Acute,Commercial,ABC Health Clinic,MountainView Health,83076,15156.72,0.59,8942.46,6214.26,19-09-2023,02-10-2023
+805475,69,Female,Asthma,Chronic,Employer Plan,Regional Health Center,Golden Valley Hospital,79873,12897.3,0.97,12510.38,386.92,30-03-2020,08-04-2020
+186365,24,Other,COVID-19,Infectious,Commercial,Evergreen Health,General Hospital,94489,6779.01,0.94,6372.27,406.74,12-01-2023,16-01-2023
+636437,24,Female,Hypertension,Chronic,Employer Plan,BlueRiver Medical,City Medical Plaza,83673,4700.67,0.5,2350.34,2350.33,15-02-2023,20-02-2023
+844149,26,Female,Influenza,Infectious,Commercial,BlueRiver Medical,St. Mary Medical Center,75752,25436.05,0.93,23655.53,1780.52,20-12-2021,21-12-2021
+332601,54,Female,Heart Failure,Critical,Commercial,Regional Health Center,MountainView Health,73273,24571.6,0.87,21377.29,3194.31,19-09-2022,26-09-2022
+884625,86,Other,Hypertension,Chronic,Commercial,CityCare Specialists,General Hospital,87014,16757.71,0.59,9887.05,6870.66,15-03-2022,18-03-2022
+789115,88,Other,COVID-19,Infectious,Medicare,Sunrise Health,Golden Valley Hospital,91400,29651.89,0.57,16901.58,12750.31,29-10-2023,11-11-2023
+394054,58,Male,Fracture - Arm,Injury,Employer Plan,ABC Health Clinic,MountainView Health,87625,11110.97,0.93,10333.2,777.77,12-09-2021,16-09-2021
+997767,53,Other,Influenza,Infectious,Employer Plan,Metro Hospital,Riverside Hospital,75189,11617.39,0.53,6157.22,5460.17,14-07-2021,26-07-2021
+825947,22,Other,Migraine,Neurological,Employer Plan,Unity Clinic,St. Mary Medical Center,78258,16689.3,0.66,11014.94,5674.36,06-07-2023,12-07-2023
+329189,19,Other,Diabetes Type 2,Chronic,Medicaid,Metro Hospital,Riverside Hospital,96977,14221.04,0.66,9385.89,4835.15,23-10-2021,04-11-2021
+719961,53,Male,Influenza,Infectious,Commercial,Sunrise Health,MountainView Health,99328,10074.31,0.97,9772.08,302.23,29-05-2021,11-06-2021
+959414,22,Male,Influenza,Infectious,Medicaid,PrimeCare Hospital,MountainView Health,90421,8825.85,0.88,7766.75,1059.1,10-03-2022,11-03-2022
+477844,33,Female,Pneumonia,Acute,Medicaid,Regional Health Center,General Hospital,75782,8998.71,0.67,6029.14,2969.57,06-12-2020,08-12-2020
+917114,82,Other,Asthma,Chronic,Employer Plan,Evergreen Health,St. Mary Medical Center,73267,26390.09,0.58,15306.25,11083.84,09-02-2021,20-02-2021
+634670,77,Male,Pneumonia,Acute,Medicaid,Metro Hospital,St. Mary Medical Center,97301,24797.32,0.68,16862.18,7935.14,24-05-2023,03-06-2023
+687421,23,Other,Fracture - Arm,Injury,Employer Plan,Sunrise Health,City Medical Plaza,94226,6445.45,0.83,5349.72,1095.73,29-01-2024,02-02-2024
+286321,27,Male,Diabetes Type 2,Chronic,Medicare,Unity Clinic,General Hospital,90643,18781.57,0.57,10705.49,8076.08,01-12-2020,07-12-2020
+245788,69,Other,Asthma,Chronic,Medicare,Unity Clinic,General Hospital,75772,11974.73,0.53,6346.61,5628.12,20-09-2022,24-09-2022
+772280,85,Male,Pneumonia,Acute,Medicaid,Unity Clinic,City Medical Plaza,82330,19158.26,0.81,15518.19,3640.07,11-04-2021,14-04-2021
+667201,27,Male,Diabetes Type 2,Chronic,Medicaid,CityCare Specialists,City Medical Plaza,96526,21308.5,0.97,20669.24,639.26,23-03-2020,01-04-2020
+785154,38,Male,Asthma,Chronic,Commercial,Metro Hospital,MountainView Health,84083,29905.86,0.89,26616.22,3289.64,14-10-2023,26-10-2023
+534995,69,Female,Fracture - Arm,Injury,Medicaid,PrimeCare Hospital,MountainView Health,94254,14318.86,0.59,8448.13,5870.73,02-06-2021,13-06-2021
+388859,31,Other,Migraine,Neurological,Medicare,Unity Clinic,City Medical Plaza,99181,8584.54,0.56,4807.34,3777.2,08-02-2021,14-02-2021
+334213,38,Female,Fracture - Arm,Injury,Medicaid,BlueRiver Medical,City Medical Plaza,97660,1845.44,0.62,1144.17,701.27,21-05-2023,26-05-2023
+200689,62,Male,Asthma,Chronic,Medicare,PrimeCare Hospital,MountainView Health,92271,4295.35,0.73,3135.61,1159.74,29-06-2021,03-07-2021
+399631,69,Male,Arthritis,Chronic,Medicaid,PrimeCare Hospital,St. Mary Medical Center,80636,5294.63,0.55,2912.05,2382.58,17-02-2023,26-02-2023
+976968,18,Female,Hypertension,Chronic,Medicaid,CityCare Specialists,St. Mary Medical Center,98671,27200.22,0.72,19584.16,7616.06,15-12-2021,22-12-2021
+848321,25,Other,Arthritis,Chronic,Employer Plan,Metro Hospital,General Hospital,77099,14342.66,0.92,13195.25,1147.41,03-08-2021,15-08-2021
+163936,25,Male,Heart Failure,Critical,Medicare,Evergreen Health,Riverside Hospital,73456,3554.4,0.53,1883.83,1670.57,25-10-2021,26-10-2021
+970020,37,Male,Heart Failure,Critical,Medicaid,Regional Health Center,Riverside Hospital,74531,23577.63,0.82,19333.66,4243.97,23-06-2021,26-06-2021
+259210,75,Male,Migraine,Neurological,Medicaid,Unity Clinic,St. Mary Medical Center,79765,3854.6,0.75,2890.95,963.65,22-09-2023,30-09-2023
+873887,42,Male,Diabetes Type 2,Chronic,Commercial,CityCare Specialists,Riverside Hospital,81824,8779.28,0.63,5530.95,3248.33,17-06-2020,26-06-2020
+223257,79,Other,Diabetes Type 2,Chronic,Medicaid,PrimeCare Hospital,MountainView Health,95227,15018.58,0.55,8260.22,6758.36,19-02-2022,24-02-2022
+663359,33,Female,COVID-19,Infectious,Commercial,Metro Hospital,St. Mary Medical Center,96806,4207.83,0.68,2861.32,1346.51,25-04-2022,07-05-2022
+729720,39,Female,Pneumonia,Acute,Medicare,ABC Health Clinic,Golden Valley Hospital,88544,19905.61,0.64,12739.59,7166.02,30-05-2023,06-06-2023
+607942,29,Male,Diabetes Type 2,Chronic,Medicare,PrimeCare Hospital,Golden Valley Hospital,84215,22823.47,0.77,17574.07,5249.4,24-10-2021,05-11-2021
+732543,39,Other,Influenza,Infectious,Medicaid,CityCare Specialists,St. Mary Medical Center,82500,22190.43,0.89,19749.48,2440.95,26-01-2024,29-01-2024
+277558,61,Male,Arthritis,Chronic,Commercial,PrimeCare Hospital,City Medical Plaza,71376,15988.28,0.64,10232.5,5755.78,19-01-2020,26-01-2020
+806972,47,Other,Influenza,Infectious,Employer Plan,PrimeCare Hospital,St. Mary Medical Center,93737,1765.95,0.62,1094.89,671.06,08-07-2023,11-07-2023
+575584,21,Other,COVID-19,Infectious,Medicaid,Sunrise Health,St. Mary Medical Center,71428,22392.53,0.8,17914.02,4478.51,11-07-2022,13-07-2022
+787016,30,Male,Pneumonia,Acute,Employer Plan,Unity Clinic,St. Mary Medical Center,89033,25438.97,0.9,22895.07,2543.9,03-11-2022,12-11-2022
+382017,70,Male,Pneumonia,Acute,Commercial,ABC Health Clinic,Golden Valley Hospital,82087,15808.43,0.56,8852.72,6955.71,05-11-2023,09-11-2023
+731827,27,Female,Asthma,Chronic,Medicaid,PrimeCare Hospital,Golden Valley Hospital,75588,1553.58,0.59,916.61,636.97,20-07-2020,26-07-2020
+688717,21,Male,Pneumonia,Acute,Medicare,Evergreen Health,MountainView Health,73292,19806.28,0.53,10497.33,9308.95,01-12-2020,11-12-2020
+981718,21,Female,Heart Failure,Critical,Medicaid,CityCare Specialists,Riverside Hospital,97835,25013.91,0.74,18510.29,6503.62,29-07-2020,04-08-2020
+543031,47,Female,Arthritis,Chronic,Medicare,Regional Health Center,Riverside Hospital,95007,12143.68,0.56,6800.46,5343.22,22-04-2020,29-04-2020
+176256,35,Other,Pneumonia,Acute,Medicare,Sunrise Health,MountainView Health,91621,19813.11,0.7,13869.18,5943.93,07-07-2023,11-07-2023
+130447,64,Other,Arthritis,Chronic,Commercial,Evergreen Health,General Hospital,82889,18251.43,0.59,10768.34,7483.09,17-05-2020,19-05-2020
+146850,87,Male,Asthma,Chronic,Medicare,ABC Health Clinic,St. Mary Medical Center,95122,13745.22,0.92,12645.6,1099.62,04-10-2023,09-10-2023
+929395,66,Male,COVID-19,Infectious,Employer Plan,PrimeCare Hospital,MountainView Health,85941,19488.36,0.52,10133.95,9354.41,11-08-2023,13-08-2023
+456992,41,Male,Pneumonia,Acute,Medicaid,Sunrise Health,Golden Valley Hospital,87069,18891.42,0.56,10579.2,8312.22,11-09-2022,15-09-2022
+574013,41,Female,Arthritis,Chronic,Employer Plan,Evergreen Health,Riverside Hospital,71974,27328.26,0.62,16943.52,10384.74,24-11-2023,30-11-2023
+855678,87,Male,Pneumonia,Acute,Employer Plan,Regional Health Center,St. Mary Medical Center,88681,17516.8,0.67,11736.26,5780.54,20-11-2021,21-11-2021
+654970,24,Female,Diabetes Type 2,Chronic,Employer Plan,BlueRiver Medical,Riverside Hospital,71171,5147.66,0.92,4735.85,411.81,20-12-2023,30-12-2023
+495755,31,Male,Migraine,Neurological,Medicaid,PrimeCare Hospital,St. Mary Medical Center,98228,20143.98,0.6,12086.39,8057.59,10-09-2022,11-09-2022
+380466,29,Male,Influenza,Infectious,Medicare,CityCare Specialists,City Medical Plaza,94259,13412.71,0.54,7242.86,6169.85,20-08-2021,27-08-2021
+888768,41,Male,Diabetes Type 2,Chronic,Employer Plan,Sunrise Health,Golden Valley Hospital,82464,16990.84,0.54,9175.05,7815.79,16-07-2020,18-07-2020
+431328,22,Female,Arthritis,Chronic,Employer Plan,Sunrise Health,St. Mary Medical Center,93369,14675.42,0.7,10272.79,4402.63,28-09-2021,05-10-2021
+193269,57,Female,COVID-19,Infectious,Commercial,ABC Health Clinic,General Hospital,75055,11183.66,0.92,10288.97,894.69,23-03-2023,27-03-2023
+785933,32,Male,Arthritis,Chronic,Employer Plan,Sunrise Health,St. Mary Medical Center,90251,23502.36,0.51,11986.2,11516.16,01-07-2023,04-07-2023
+274023,61,Male,COVID-19,Infectious,Employer Plan,ABC Health Clinic,Golden Valley Hospital,85795,14373.36,0.69,9917.62,4455.74,21-12-2023,24-12-2023
+762212,68,Other,Heart Failure,Critical,Employer Plan,BlueRiver Medical,MountainView Health,70475,23088.23,0.63,14545.58,8542.65,31-12-2022,07-01-2023
+514600,64,Other,Heart Failure,Critical,Medicaid,Regional Health Center,Golden Valley Hospital,81531,6231.98,0.79,4923.26,1308.72,26-05-2022,29-05-2022
+310545,57,Female,Hypertension,Chronic,Employer Plan,Metro Hospital,City Medical Plaza,84203,24880.76,0.65,16172.49,8708.27,16-09-2022,22-09-2022
+892338,49,Male,Fracture - Arm,Injury,Employer Plan,Metro Hospital,City Medical Plaza,80102,4989.37,0.85,4240.96,748.41,31-03-2023,04-04-2023
+133691,76,Other,Migraine,Neurological,Medicare,ABC Health Clinic,General Hospital,96819,22001.58,0.93,20461.47,1540.11,06-11-2023,11-11-2023
+395138,78,Male,Influenza,Infectious,Employer Plan,Unity Clinic,St. Mary Medical Center,70645,21741.92,0.65,14132.25,7609.67,19-11-2023,21-11-2023
+545358,20,Female,COVID-19,Infectious,Employer Plan,PrimeCare Hospital,MountainView Health,90215,3984.61,0.85,3386.92,597.69,29-06-2021,08-07-2021
+827346,64,Female,COVID-19,Infectious,Commercial,Sunrise Health,Golden Valley Hospital,76416,25481.26,0.73,18601.32,6879.94,19-07-2022,20-07-2022
+289139,33,Female,Diabetes Type 2,Chronic,Commercial,BlueRiver Medical,MountainView Health,95646,6484.12,0.91,5900.55,583.57,03-05-2020,04-05-2020
+645735,80,Other,Pneumonia,Acute,Medicaid,Sunrise Health,Golden Valley Hospital,84478,7560.36,0.52,3931.39,3628.97,06-08-2022,10-08-2022
+410925,34,Other,Influenza,Infectious,Commercial,CityCare Specialists,Riverside Hospital,98384,26415.46,0.5,13207.73,13207.73,06-01-2024,17-01-2024
+576513,63,Female,Pneumonia,Acute,Medicare,BlueRiver Medical,Golden Valley Hospital,98194,13263.69,0.89,11804.68,1459.01,18-08-2021,19-08-2021
+239544,57,Female,COVID-19,Infectious,Medicaid,Evergreen Health,Golden Valley Hospital,88351,21669.12,0.97,21019.05,650.07,17-06-2022,27-06-2022
+514994,45,Male,Fracture - Arm,Injury,Medicaid,Sunrise Health,Riverside Hospital,83947,25137.75,0.64,16088.16,9049.59,31-07-2022,04-08-2022
+235565,55,Male,Pneumonia,Acute,Employer Plan,Metro Hospital,Golden Valley Hospital,86648,1853.52,0.73,1353.07,500.45,29-03-2020,09-04-2020
+195028,76,Female,Influenza,Infectious,Employer Plan,Regional Health Center,MountainView Health,84849,20532.43,0.78,16015.3,4517.13,24-02-2023,03-03-2023
+385711,79,Male,Asthma,Chronic,Commercial,CityCare Specialists,City Medical Plaza,87044,3313.77,0.9,2982.39,331.38,09-10-2022,22-10-2022
+500584,78,Male,Pneumonia,Acute,Commercial,Metro Hospital,St. Mary Medical Center,87111,28741,0.51,14657.91,14083.09,08-12-2020,16-12-2020
+323563,71,Female,Influenza,Infectious,Commercial,Regional Health Center,City Medical Plaza,86789,18802.05,0.8,15041.64,3760.41,19-05-2021,01-06-2021
+964434,21,Other,Fracture - Arm,Injury,Employer Plan,Regional Health Center,Golden Valley Hospital,86300,29166.84,0.63,18375.11,10791.73,31-03-2023,11-04-2023
+897622,18,Other,Arthritis,Chronic,Medicaid,Unity Clinic,General Hospital,98369,11812.81,0.73,8623.35,3189.46,30-12-2021,10-01-2022
+664871,82,Male,Hypertension,Chronic,Commercial,BlueRiver Medical,Golden Valley Hospital,75410,14252.84,0.73,10404.57,3848.27,14-10-2021,27-10-2021
+678533,66,Female,Hypertension,Chronic,Medicaid,BlueRiver Medical,Riverside Hospital,99075,4578.73,0.66,3021.96,1556.77,06-12-2020,11-12-2020
+216656,81,Female,COVID-19,Infectious,Commercial,Unity Clinic,Golden Valley Hospital,92760,12814.93,0.54,6920.06,5894.87,06-07-2021,07-07-2021
+395767,38,Other,Fracture - Arm,Injury,Commercial,Sunrise Health,City Medical Plaza,92207,21514.37,0.98,21084.08,430.29,18-09-2023,01-10-2023
+292512,57,Other,Heart Failure,Critical,Employer Plan,PrimeCare Hospital,City Medical Plaza,81531,20726.32,0.64,13264.84,7461.48,24-08-2021,31-08-2021
+854651,86,Male,Fracture - Arm,Injury,Medicaid,Evergreen Health,General Hospital,92190,26340.54,0.62,16331.13,10009.41,09-09-2023,10-09-2023
+880926,53,Female,Migraine,Neurological,Commercial,BlueRiver Medical,MountainView Health,99808,3523.72,0.54,1902.81,1620.91,16-10-2021,25-10-2021
+423494,19,Other,Influenza,Infectious,Medicaid,CityCare Specialists,Riverside Hospital,80058,18562.73,0.74,13736.42,4826.31,16-07-2021,22-07-2021
+164200,56,Other,Pneumonia,Acute,Medicaid,PrimeCare Hospital,St. Mary Medical Center,71628,3393.65,0.76,2579.17,814.48,22-10-2020,24-10-2020
+349768,29,Other,Hypertension,Chronic,Commercial,PrimeCare Hospital,City Medical Plaza,74669,17421.31,0.66,11498.06,5923.25,26-07-2023,03-08-2023
+924824,55,Male,Arthritis,Chronic,Commercial,CityCare Specialists,MountainView Health,72658,3712.02,0.76,2821.14,890.88,19-11-2022,01-12-2022
+979979,49,Other,Asthma,Chronic,Employer Plan,Sunrise Health,Riverside Hospital,85007,12078.41,0.79,9541.94,2536.47,04-11-2023,05-11-2023
+863799,56,Female,Heart Failure,Critical,Employer Plan,PrimeCare Hospital,MountainView Health,76564,26867.77,0.67,18001.41,8866.36,17-03-2023,20-03-2023
+345404,77,Female,Asthma,Chronic,Commercial,Metro Hospital,General Hospital,88213,25643.48,0.75,19232.61,6410.87,03-01-2024,15-01-2024
+607365,82,Other,Pneumonia,Acute,Medicare,CityCare Specialists,City Medical Plaza,77069,2284.8,0.74,1690.75,594.05,15-03-2020,28-03-2020
+845219,43,Other,Arthritis,Chronic,Commercial,ABC Health Clinic,St. Mary Medical Center,88693,23052.09,0.72,16597.5,6454.59,25-06-2021,05-07-2021
+876676,54,Female,Migraine,Neurological,Commercial,Evergreen Health,Golden Valley Hospital,70785,25061.16,0.97,24309.33,751.83,17-03-2020,28-03-2020
+950350,34,Male,Arthritis,Chronic,Employer Plan,PrimeCare Hospital,City Medical Plaza,85848,17280.78,0.76,13133.39,4147.39,31-03-2022,11-04-2022
+831478,68,Other,COVID-19,Infectious,Medicaid,ABC Health Clinic,St. Mary Medical Center,70340,11259.77,0.63,7093.66,4166.11,26-10-2020,06-11-2020
+493574,85,Other,Hypertension,Chronic,Employer Plan,BlueRiver Medical,City Medical Plaza,93010,5789.86,0.89,5152.98,636.88,22-09-2022,25-09-2022
+794780,34,Other,Diabetes Type 2,Chronic,Employer Plan,Unity Clinic,General Hospital,81927,19188.82,0.6,11513.29,7675.53,03-06-2021,15-06-2021
+180388,34,Male,Pneumonia,Acute,Medicaid,ABC Health Clinic,Riverside Hospital,71140,18574.94,0.67,12445.21,6129.73,09-03-2023,15-03-2023
+259380,28,Other,Migraine,Neurological,Medicare,BlueRiver Medical,MountainView Health,71960,26497.08,0.95,25172.23,1324.85,01-06-2022,04-06-2022
+989497,65,Female,Fracture - Arm,Injury,Medicaid,Regional Health Center,Golden Valley Hospital,96186,7291.86,0.87,6343.92,947.94,02-02-2021,13-02-2021
+293226,81,Male,Asthma,Chronic,Medicaid,Metro Hospital,Riverside Hospital,92452,29451.07,0.7,20615.75,8835.32,10-02-2022,17-02-2022
+808770,65,Other,Influenza,Infectious,Employer Plan,Regional Health Center,City Medical Plaza,78016,19745.65,0.64,12637.22,7108.43,19-04-2022,22-04-2022
+664798,55,Other,Migraine,Neurological,Medicare,Evergreen Health,St. Mary Medical Center,97103,27983.84,0.51,14271.76,13712.08,24-06-2022,04-07-2022
+440093,38,Female,Influenza,Infectious,Employer Plan,ABC Health Clinic,Golden Valley Hospital,90536,24111.73,0.98,23629.5,482.23,25-10-2023,02-11-2023
+184761,88,Female,Fracture - Arm,Injury,Commercial,Metro Hospital,MountainView Health,70024,19537.83,0.53,10355.05,9182.78,20-05-2020,28-05-2020
+440615,22,Male,Hypertension,Chronic,Employer Plan,ABC Health Clinic,St. Mary Medical Center,85038,4025.23,0.73,2938.42,1086.81,30-07-2022,03-08-2022
+632893,89,Other,Diabetes Type 2,Chronic,Medicare,ABC Health Clinic,Riverside Hospital,78549,10037.62,0.54,5420.31,4617.31,09-01-2021,11-01-2021
+451977,33,Female,Diabetes Type 2,Chronic,Medicaid,BlueRiver Medical,MountainView Health,91793,9508.63,0.89,8462.68,1045.95,31-08-2022,08-09-2022
+415261,72,Other,Arthritis,Chronic,Medicare,Evergreen Health,City Medical Plaza,98454,7941.83,0.81,6432.88,1508.95,12-03-2021,25-03-2021
+222258,70,Other,Influenza,Infectious,Medicare,Unity Clinic,General Hospital,86566,15837.89,0.72,11403.28,4434.61,30-10-2022,03-11-2022
+220263,71,Female,Diabetes Type 2,Chronic,Employer Plan,Regional Health Center,City Medical Plaza,84743,9764.15,0.77,7518.4,2245.75,16-09-2020,29-09-2020
+287450,25,Female,Fracture - Arm,Injury,Commercial,CityCare Specialists,St. Mary Medical Center,77927,19442.39,0.53,10304.47,9137.92,04-01-2024,05-01-2024
+713369,43,Female,Arthritis,Chronic,Medicaid,Metro Hospital,St. Mary Medical Center,84087,1608.87,0.62,997.5,611.37,07-06-2022,20-06-2022
+468266,82,Other,Asthma,Chronic,Medicare,CityCare Specialists,MountainView Health,75571,23984.58,0.93,22305.66,1678.92,20-05-2020,23-05-2020
+233296,87,Other,Migraine,Neurological,Medicare,Evergreen Health,St. Mary Medical Center,71948,12547.99,0.8,10038.39,2509.6,23-09-2021,30-09-2021
+958286,40,Male,Migraine,Neurological,Commercial,PrimeCare Hospital,General Hospital,89991,23189.58,0.96,22262,927.58,06-03-2021,15-03-2021
+961789,38,Other,Asthma,Chronic,Employer Plan,PrimeCare Hospital,St. Mary Medical Center,83200,11761.44,0.96,11290.98,470.46,23-06-2021,02-07-2021
+691202,64,Female,Asthma,Chronic,Employer Plan,Sunrise Health,MountainView Health,75574,23375.68,0.7,16362.98,7012.7,31-01-2021,04-02-2021
+126654,19,Male,Influenza,Infectious,Medicaid,Unity Clinic,Golden Valley Hospital,88400,24192.86,0.86,20805.86,3387,10-06-2020,19-06-2020
+642423,25,Other,Pneumonia,Acute,Medicaid,ABC Health Clinic,MountainView Health,92853,19877.73,0.69,13715.63,6162.1,02-05-2021,08-05-2021
+416480,38,Other,Asthma,Chronic,Medicare,Sunrise Health,General Hospital,74213,23787.44,0.76,18078.45,5708.99,22-02-2020,03-03-2020
+293069,30,Male,Arthritis,Chronic,Employer Plan,CityCare Specialists,Golden Valley Hospital,78016,5044.5,0.7,3531.15,1513.35,21-01-2021,27-01-2021
+855728,29,Female,Pneumonia,Acute,Employer Plan,Sunrise Health,MountainView Health,71401,16292.42,0.83,13522.71,2769.71,28-04-2020,10-05-2020
+799151,64,Male,Heart Failure,Critical,Employer Plan,Unity Clinic,City Medical Plaza,75818,12403.54,0.68,8434.41,3969.13,15-12-2023,21-12-2023
+980006,42,Male,Fracture - Arm,Injury,Medicaid,Evergreen Health,MountainView Health,98472,12094.57,0.5,6047.28,6047.29,08-07-2021,13-07-2021
+281196,24,Other,Asthma,Chronic,Medicare,BlueRiver Medical,General Hospital,97606,23740.72,0.72,17093.32,6647.4,22-05-2023,02-06-2023
+878883,84,Male,Influenza,Infectious,Medicare,CityCare Specialists,St. Mary Medical Center,89660,22802.17,0.73,16645.58,6156.59,26-05-2023,30-05-2023
+212217,26,Other,Migraine,Neurological,Employer Plan,Regional Health Center,St. Mary Medical Center,97978,28938.9,0.54,15627.01,13311.89,20-08-2020,21-08-2020
+269530,88,Female,Influenza,Infectious,Medicaid,Sunrise Health,St. Mary Medical Center,93852,9372.76,0.97,9091.58,281.18,31-03-2021,08-04-2021
+834275,45,Other,Hypertension,Chronic,Medicare,Regional Health Center,Golden Valley Hospital,70215,22161.96,0.76,16843.09,5318.87,07-06-2020,16-06-2020
+350541,43,Male,Diabetes Type 2,Chronic,Medicare,Regional Health Center,MountainView Health,84696,14258.69,0.56,7984.87,6273.82,03-08-2022,09-08-2022
+609850,32,Male,COVID-19,Infectious,Medicare,PrimeCare Hospital,Golden Valley Hospital,81837,24498.52,0.72,17638.93,6859.59,14-12-2021,27-12-2021
+537470,20,Female,Arthritis,Chronic,Medicare,BlueRiver Medical,MountainView Health,70492,2924.4,0.9,2631.96,292.44,26-11-2020,09-12-2020
+671441,28,Other,Arthritis,Chronic,Medicare,Regional Health Center,Riverside Hospital,95851,29852.35,0.84,25075.97,4776.38,18-01-2023,27-01-2023
+629739,28,Male,Influenza,Infectious,Medicaid,ABC Health Clinic,Golden Valley Hospital,95461,1871.34,0.51,954.38,916.96,11-09-2021,14-09-2021
+911804,76,Male,Diabetes Type 2,Chronic,Medicare,PrimeCare Hospital,St. Mary Medical Center,87313,23083.34,0.58,13388.34,9695,08-01-2020,12-01-2020
+211086,82,Other,Fracture - Arm,Injury,Medicare,Regional Health Center,St. Mary Medical Center,92357,25873.4,0.79,20439.99,5433.41,24-02-2021,06-03-2021
+511236,45,Female,Migraine,Neurological,Employer Plan,BlueRiver Medical,St. Mary Medical Center,90022,22272.55,0.55,12249.9,10022.65,04-09-2021,15-09-2021
+602648,84,Male,COVID-19,Infectious,Employer Plan,Sunrise Health,Golden Valley Hospital,77927,29717.46,0.96,28528.76,1188.7,08-05-2020,17-05-2020
+192764,88,Male,Asthma,Chronic,Employer Plan,Regional Health Center,City Medical Plaza,79821,27675.15,0.96,26568.14,1107.01,18-12-2021,19-12-2021
+939953,62,Male,Pneumonia,Acute,Medicare,CityCare Specialists,MountainView Health,89392,8351.37,0.59,4927.31,3424.06,28-11-2023,02-12-2023
+853494,27,Other,Influenza,Infectious,Medicare,PrimeCare Hospital,St. Mary Medical Center,95792,6493.82,0.92,5974.31,519.51,02-01-2022,06-01-2022
+440676,28,Other,Migraine,Neurological,Commercial,ABC Health Clinic,Riverside Hospital,71132,11561.94,0.93,10752.6,809.34,22-11-2020,02-12-2020
+369956,38,Female,Pneumonia,Acute,Commercial,Regional Health Center,St. Mary Medical Center,97251,7327.14,0.62,4542.83,2784.31,23-10-2023,26-10-2023
+325391,63,Female,Influenza,Infectious,Commercial,Regional Health Center,St. Mary Medical Center,86654,26565.65,0.72,19127.27,7438.38,22-10-2023,30-10-2023
+471994,57,Other,Pneumonia,Acute,Medicaid,BlueRiver Medical,St. Mary Medical Center,89459,5820.46,0.92,5354.82,465.64,15-04-2021,20-04-2021
+107415,40,Male,Migraine,Neurological,Commercial,PrimeCare Hospital,Golden Valley Hospital,74776,1500.33,0.7,1050.23,450.1,19-07-2021,25-07-2021
+920580,74,Female,Heart Failure,Critical,Commercial,Evergreen Health,Golden Valley Hospital,89540,10162.36,0.61,6199.04,3963.32,07-12-2020,11-12-2020
+308859,55,Other,Pneumonia,Acute,Commercial,Sunrise Health,City Medical Plaza,92412,13544.93,0.65,8804.2,4740.73,02-12-2021,07-12-2021
+649999,44,Other,Influenza,Infectious,Medicaid,Unity Clinic,MountainView Health,81814,7783.92,0.87,6772.01,1011.91,05-11-2020,10-11-2020
+904807,33,Other,Fracture - Arm,Injury,Commercial,CityCare Specialists,Golden Valley Hospital,78712,9162.13,0.8,7329.7,1832.43,26-12-2021,04-01-2022
+692656,85,Other,Influenza,Infectious,Commercial,PrimeCare Hospital,City Medical Plaza,72800,16144.85,0.74,11947.19,4197.66,09-01-2023,18-01-2023
+457246,83,Other,Fracture - Arm,Injury,Commercial,Unity Clinic,General Hospital,95582,21295.97,0.85,18101.57,3194.4,08-11-2020,09-11-2020
+513089,58,Male,Influenza,Infectious,Medicare,Unity Clinic,Golden Valley Hospital,71363,29387.98,0.91,26743.06,2644.92,14-07-2021,26-07-2021
+773647,64,Male,Fracture - Arm,Injury,Employer Plan,Metro Hospital,General Hospital,77106,15251.26,0.74,11285.93,3965.33,13-05-2022,17-05-2022
+433713,60,Other,Heart Failure,Critical,Medicaid,Metro Hospital,Golden Valley Hospital,74769,13973.35,0.61,8523.74,5449.61,31-08-2023,13-09-2023
+694821,66,Other,Migraine,Neurological,Medicare,PrimeCare Hospital,Riverside Hospital,81599,26085.25,0.59,15390.3,10694.95,20-10-2021,01-11-2021
+808175,60,Female,Influenza,Infectious,Employer Plan,Regional Health Center,MountainView Health,97798,10521.67,0.89,9364.29,1157.38,08-11-2020,13-11-2020
+489959,24,Female,Heart Failure,Critical,Commercial,ABC Health Clinic,St. Mary Medical Center,94335,29484.31,0.8,23587.45,5896.86,14-05-2021,22-05-2021
+434971,29,Female,Migraine,Neurological,Commercial,PrimeCare Hospital,Riverside Hospital,86523,19206.83,0.66,12676.51,6530.32,22-07-2021,03-08-2021
+254692,76,Male,Diabetes Type 2,Chronic,Employer Plan,Sunrise Health,Riverside Hospital,91205,10975,0.53,5816.75,5158.25,12-07-2021,19-07-2021
+583779,50,Male,Pneumonia,Acute,Medicaid,Evergreen Health,Golden Valley Hospital,92742,13422.52,0.86,11543.37,1879.15,29-01-2022,02-02-2022
+189116,41,Female,COVID-19,Infectious,Medicare,Sunrise Health,St. Mary Medical Center,92077,16282.98,0.59,9606.96,6676.02,01-06-2021,11-06-2021
+195556,45,Female,Influenza,Infectious,Medicare,CityCare Specialists,St. Mary Medical Center,99096,7326.56,0.75,5494.92,1831.64,15-10-2022,18-10-2022
+145833,52,Female,Heart Failure,Critical,Medicaid,Unity Clinic,Golden Valley Hospital,94729,18703.66,0.54,10099.98,8603.68,30-10-2021,05-11-2021
+837242,58,Female,Pneumonia,Acute,Employer Plan,ABC Health Clinic,MountainView Health,73554,19982.39,0.63,12588.91,7393.48,12-03-2022,18-03-2022
+837090,23,Other,COVID-19,Infectious,Medicare,Metro Hospital,Golden Valley Hospital,83032,16484.05,0.62,10220.11,6263.94,14-09-2020,27-09-2020
+140387,82,Other,COVID-19,Infectious,Medicare,PrimeCare Hospital,Riverside Hospital,74757,28263.13,0.5,14131.57,14131.56,25-06-2023,01-07-2023
+979459,47,Male,Hypertension,Chronic,Medicare,Regional Health Center,General Hospital,93688,14332.25,0.96,13758.96,573.29,14-12-2023,23-12-2023
+967564,63,Female,Arthritis,Chronic,Employer Plan,Unity Clinic,General Hospital,74937,1737.12,0.71,1233.36,503.76,13-12-2023,17-12-2023
+500890,42,Other,Pneumonia,Acute,Medicare,Sunrise Health,Riverside Hospital,94473,29893.48,0.61,18235.02,11658.46,12-02-2020,21-02-2020
+191176,59,Female,Pneumonia,Acute,Medicare,BlueRiver Medical,General Hospital,80996,26507.9,0.85,22531.72,3976.18,06-12-2022,07-12-2022
+319128,86,Other,Diabetes Type 2,Chronic,Employer Plan,CityCare Specialists,Riverside Hospital,90285,18791.85,0.82,15409.32,3382.53,03-12-2020,10-12-2020
+585001,55,Other,Asthma,Chronic,Employer Plan,BlueRiver Medical,Golden Valley Hospital,80626,19078.33,0.86,16407.36,2670.97,25-08-2021,02-09-2021
+526674,23,Other,Influenza,Infectious,Commercial,Metro Hospital,MountainView Health,81035,27584.83,0.91,25102.2,2482.63,21-07-2021,01-08-2021
+987553,78,Female,Arthritis,Chronic,Medicaid,BlueRiver Medical,MountainView Health,98273,20005.69,0.95,19005.41,1000.28,01-04-2020,03-04-2020
+255489,80,Female,COVID-19,Infectious,Medicare,Regional Health Center,Golden Valley Hospital,98927,13117.54,0.73,9575.8,3541.74,28-03-2020,01-04-2020
+393851,18,Other,Asthma,Chronic,Medicaid,Unity Clinic,St. Mary Medical Center,78312,8916.74,0.58,5171.71,3745.03,04-10-2022,17-10-2022
+870692,38,Female,Fracture - Arm,Injury,Commercial,Regional Health Center,Riverside Hospital,87186,24466.57,0.5,12233.28,12233.29,19-05-2020,31-05-2020
+921530,73,Female,Fracture - Arm,Injury,Medicare,PrimeCare Hospital,City Medical Plaza,97966,3684.12,0.92,3389.39,294.73,27-08-2023,03-09-2023
+865791,22,Female,COVID-19,Infectious,Medicare,Evergreen Health,General Hospital,93408,4423.19,0.69,3052,1371.19,07-10-2022,20-10-2022
+970946,56,Female,Influenza,Infectious,Medicaid,PrimeCare Hospital,St. Mary Medical Center,70086,25380.39,0.91,23096.15,2284.24,17-02-2021,26-02-2021
+389662,46,Other,Migraine,Neurological,Commercial,Regional Health Center,City Medical Plaza,75520,22607.85,0.91,20573.14,2034.71,29-04-2021,05-05-2021
+639243,35,Female,Arthritis,Chronic,Medicaid,Metro Hospital,Golden Valley Hospital,78912,13304.73,0.85,11309.02,1995.71,13-05-2021,23-05-2021
+199977,53,Female,Influenza,Infectious,Medicaid,Evergreen Health,Golden Valley Hospital,86530,11066.7,0.86,9517.36,1549.34,28-12-2020,10-01-2021
+894760,64,Male,Hypertension,Chronic,Commercial,ABC Health Clinic,St. Mary Medical Center,92702,22977.45,0.6,13786.47,9190.98,09-10-2023,12-10-2023
+333612,18,Female,Hypertension,Chronic,Medicare,Evergreen Health,St. Mary Medical Center,76160,7378.19,0.69,5090.95,2287.24,31-10-2020,03-11-2020
+261081,66,Other,Migraine,Neurological,Medicare,Metro Hospital,Golden Valley Hospital,82816,25933.3,0.82,21265.31,4667.99,11-11-2023,24-11-2023
+136468,49,Female,Influenza,Infectious,Medicaid,Sunrise Health,General Hospital,93644,24909.57,0.9,22418.61,2490.96,13-05-2021,25-05-2021
+668242,88,Female,Asthma,Chronic,Commercial,CityCare Specialists,General Hospital,99100,15303.82,0.51,7804.95,7498.87,30-07-2022,08-08-2022
+404359,35,Other,Diabetes Type 2,Chronic,Employer Plan,BlueRiver Medical,Golden Valley Hospital,88949,12598.04,0.76,9574.51,3023.53,18-10-2020,30-10-2020
+851731,74,Male,Diabetes Type 2,Chronic,Medicaid,Unity Clinic,MountainView Health,92463,28362.56,0.52,14748.53,13614.03,18-11-2020,21-11-2020
+870050,71,Female,Heart Failure,Critical,Commercial,Evergreen Health,Golden Valley Hospital,99315,14730.8,0.85,12521.18,2209.62,19-02-2023,02-03-2023
+483071,47,Other,Diabetes Type 2,Chronic,Medicaid,Metro Hospital,General Hospital,84683,19511.68,0.55,10731.42,8780.26,19-12-2021,28-12-2021
+978499,25,Male,COVID-19,Infectious,Medicaid,PrimeCare Hospital,City Medical Plaza,96429,24385.56,0.75,18289.17,6096.39,10-10-2023,15-10-2023
+583007,61,Male,Fracture - Arm,Injury,Employer Plan,Sunrise Health,MountainView Health,71925,22874.37,0.94,21501.91,1372.46,27-12-2021,30-12-2021
+347572,81,Female,Pneumonia,Acute,Medicaid,PrimeCare Hospital,City Medical Plaza,96069,23110.62,0.65,15021.9,8088.72,08-01-2024,21-01-2024
+663466,71,Other,Influenza,Infectious,Employer Plan,CityCare Specialists,Golden Valley Hospital,80973,27373.4,0.74,20256.32,7117.08,15-05-2023,16-05-2023
+939385,19,Female,Asthma,Chronic,Medicaid,Evergreen Health,St. Mary Medical Center,77485,24192.88,0.63,15241.51,8951.37,19-05-2021,22-05-2021
+545093,84,Female,Hypertension,Chronic,Medicaid,PrimeCare Hospital,St. Mary Medical Center,86140,20159.21,0.9,18143.29,2015.92,25-09-2022,30-09-2022
+592750,21,Other,Fracture - Arm,Injury,Medicaid,BlueRiver Medical,MountainView Health,86377,21420.04,0.68,14565.63,6854.41,26-01-2021,27-01-2021
+628036,80,Female,Arthritis,Chronic,Medicare,PrimeCare Hospital,Riverside Hospital,75710,17384.11,0.52,9039.74,8344.37,20-11-2021,26-11-2021
+228216,73,Female,Heart Failure,Critical,Employer Plan,Evergreen Health,City Medical Plaza,98901,4188.33,0.86,3601.96,586.37,20-04-2023,03-05-2023
+603551,55,Other,Pneumonia,Acute,Employer Plan,ABC Health Clinic,City Medical Plaza,93386,8382.65,0.52,4358.98,4023.67,09-09-2020,22-09-2020
+949776,52,Other,Migraine,Neurological,Commercial,Unity Clinic,Riverside Hospital,86285,10414.17,0.81,8435.48,1978.69,13-03-2022,19-03-2022
+357438,41,Female,Hypertension,Chronic,Employer Plan,Regional Health Center,Riverside Hospital,93993,17556.77,0.8,14045.42,3511.35,22-02-2023,04-03-2023
+700600,85,Male,Asthma,Chronic,Commercial,CityCare Specialists,St. Mary Medical Center,70572,12593.07,0.61,7681.77,4911.3,29-07-2020,05-08-2020
+974391,28,Female,Diabetes Type 2,Chronic,Commercial,PrimeCare Hospital,Riverside Hospital,74996,29875.49,0.97,28979.23,896.26,10-02-2023,20-02-2023
+152691,55,Male,Diabetes Type 2,Chronic,Commercial,Evergreen Health,Golden Valley Hospital,77031,28338.22,0.58,16436.17,11902.05,28-09-2023,07-10-2023
+591006,71,Female,Arthritis,Chronic,Commercial,Metro Hospital,MountainView Health,76336,6611.65,0.84,5553.79,1057.86,31-07-2022,01-08-2022
+997116,63,Female,Diabetes Type 2,Chronic,Employer Plan,CityCare Specialists,General Hospital,78566,6385.87,0.72,4597.83,1788.04,12-08-2023,18-08-2023
+759987,55,Other,Heart Failure,Critical,Medicaid,CityCare Specialists,City Medical Plaza,95520,9394.86,0.94,8831.17,563.69,25-05-2022,02-06-2022
+480714,39,Male,Heart Failure,Critical,Medicaid,Metro Hospital,MountainView Health,99299,8519.15,0.83,7070.89,1448.26,02-06-2021,15-06-2021
+584282,73,Other,Migraine,Neurological,Commercial,BlueRiver Medical,General Hospital,98850,2355.74,0.93,2190.84,164.9,31-05-2023,07-06-2023
+508376,25,Other,Migraine,Neurological,Medicaid,Regional Health Center,MountainView Health,75750,12784.91,0.82,10483.63,2301.28,20-03-2022,02-04-2022
+712242,28,Female,Diabetes Type 2,Chronic,Commercial,CityCare Specialists,Riverside Hospital,96899,3073.84,0.95,2920.15,153.69,16-07-2022,20-07-2022
+352388,20,Male,Influenza,Infectious,Employer Plan,BlueRiver Medical,MountainView Health,80295,5933.79,0.6,3560.27,2373.52,10-07-2020,18-07-2020
+461309,73,Female,Fracture - Arm,Injury,Employer Plan,Metro Hospital,MountainView Health,95212,10120.65,0.97,9817.03,303.62,14-01-2023,18-01-2023
+930686,81,Female,Heart Failure,Critical,Commercial,BlueRiver Medical,Golden Valley Hospital,81905,25135.46,0.84,21113.79,4021.67,18-08-2023,23-08-2023
+669829,27,Female,Heart Failure,Critical,Commercial,Evergreen Health,General Hospital,89520,14598.15,0.65,9488.8,5109.35,04-04-2022,11-04-2022
+503561,70,Female,Influenza,Infectious,Medicaid,Sunrise Health,St. Mary Medical Center,98018,29765.53,0.82,24407.73,5357.8,15-04-2020,22-04-2020
+186694,30,Male,Influenza,Infectious,Employer Plan,Regional Health Center,St. Mary Medical Center,98378,16398.66,0.73,11971.02,4427.64,19-07-2020,31-07-2020
+214091,55,Other,Fracture - Arm,Injury,Medicare,ABC Health Clinic,St. Mary Medical Center,81151,10854.64,0.72,7815.34,3039.3,10-12-2020,18-12-2020
+658988,23,Other,Influenza,Infectious,Employer Plan,Unity Clinic,MountainView Health,92523,17250.87,0.68,11730.59,5520.28,25-04-2023,01-05-2023
+365406,55,Male,Asthma,Chronic,Employer Plan,ABC Health Clinic,City Medical Plaza,76901,25032.76,0.64,16020.97,9011.79,17-10-2022,23-10-2022
+958823,89,Female,Influenza,Infectious,Medicaid,ABC Health Clinic,St. Mary Medical Center,90866,26978.58,0.66,17805.86,9172.72,06-04-2022,19-04-2022
+220062,86,Female,Pneumonia,Acute,Medicare,Sunrise Health,Golden Valley Hospital,74820,26411.05,0.62,16374.85,10036.2,30-11-2023,04-12-2023
+809132,62,Other,COVID-19,Infectious,Medicaid,Metro Hospital,MountainView Health,88931,22882.57,0.57,13043.06,9839.51,25-04-2021,26-04-2021
+723502,34,Female,Heart Failure,Critical,Medicaid,Evergreen Health,Golden Valley Hospital,78519,7414.92,0.61,4523.1,2891.82,29-11-2021,12-12-2021
+321094,45,Male,Fracture - Arm,Injury,Medicaid,Unity Clinic,St. Mary Medical Center,94062,18511.95,0.98,18141.71,370.24,30-08-2021,01-09-2021
+789884,30,Other,Migraine,Neurological,Medicaid,PrimeCare Hospital,General Hospital,97559,7962.12,0.82,6528.94,1433.18,18-04-2023,28-04-2023
+594955,70,Other,Pneumonia,Acute,Medicaid,Metro Hospital,General Hospital,72696,25416.64,0.58,14741.65,10674.99,08-01-2022,19-01-2022
+375553,26,Other,Hypertension,Chronic,Medicare,Sunrise Health,General Hospital,97527,9509.92,0.58,5515.75,3994.17,06-09-2023,17-09-2023
+856967,59,Female,Asthma,Chronic,Commercial,Evergreen Health,Riverside Hospital,85198,23523.99,0.61,14349.63,9174.36,02-01-2022,07-01-2022
+562676,57,Other,Heart Failure,Critical,Medicaid,Unity Clinic,St. Mary Medical Center,82901,2045.93,0.9,1841.34,204.59,01-04-2022,09-04-2022
+519048,66,Other,Asthma,Chronic,Commercial,BlueRiver Medical,General Hospital,97796,28902.53,0.82,23700.07,5202.46,20-05-2022,01-06-2022
+634522,34,Female,Asthma,Chronic,Employer Plan,Unity Clinic,MountainView Health,82225,19159.05,0.79,15135.65,4023.4,21-06-2023,25-06-2023
+406901,66,Other,Pneumonia,Acute,Medicaid,Regional Health Center,St. Mary Medical Center,73359,16976.11,0.67,11373.99,5602.12,30-11-2021,03-12-2021
+580441,73,Other,Hypertension,Chronic,Medicaid,CityCare Specialists,General Hospital,97070,29568.1,0.95,28089.69,1478.41,04-01-2021,08-01-2021
+120389,44,Male,Heart Failure,Critical,Employer Plan,BlueRiver Medical,Golden Valley Hospital,80988,14231.36,0.74,10531.21,3700.15,27-06-2023,05-07-2023
+155805,43,Female,Asthma,Chronic,Commercial,BlueRiver Medical,City Medical Plaza,91698,23075.87,0.53,12230.21,10845.66,27-09-2020,30-09-2020
+292971,70,Female,Diabetes Type 2,Chronic,Commercial,CityCare Specialists,MountainView Health,82427,27411.5,0.65,17817.48,9594.02,01-07-2020,02-07-2020
+600981,83,Female,Asthma,Chronic,Medicaid,PrimeCare Hospital,General Hospital,99523,25182.05,0.56,14101.95,11080.1,21-03-2021,03-04-2021
+980096,55,Male,COVID-19,Infectious,Medicaid,Regional Health Center,Golden Valley Hospital,93576,6185.56,0.56,3463.91,2721.65,10-03-2020,11-03-2020
+457226,64,Other,Pneumonia,Acute,Commercial,CityCare Specialists,City Medical Plaza,90443,26381.05,0.75,19785.79,6595.26,10-07-2020,13-07-2020
+549777,27,Male,Pneumonia,Acute,Medicare,BlueRiver Medical,Riverside Hospital,74668,23729.67,0.55,13051.32,10678.35,06-11-2020,11-11-2020
+343767,76,Male,Arthritis,Chronic,Medicare,PrimeCare Hospital,General Hospital,97375,23829.75,0.84,20016.99,3812.76,29-03-2022,09-04-2022
+380539,56,Female,Heart Failure,Critical,Commercial,Unity Clinic,MountainView Health,73961,24116.76,0.52,12540.72,11576.04,28-11-2021,03-12-2021
+445783,51,Other,Pneumonia,Acute,Medicare,Metro Hospital,Golden Valley Hospital,91031,29698.81,0.78,23165.07,6533.74,30-01-2022,09-02-2022
+434517,59,Male,Hypertension,Chronic,Medicaid,Unity Clinic,Riverside Hospital,88412,24126.99,0.58,13993.65,10133.34,12-06-2021,18-06-2021
+422137,30,Male,Arthritis,Chronic,Medicare,Unity Clinic,Riverside Hospital,76509,6706.16,0.57,3822.51,2883.65,16-10-2021,22-10-2021
+808092,44,Male,Hypertension,Chronic,Commercial,PrimeCare Hospital,Riverside Hospital,79275,4881.35,0.95,4637.28,244.07,10-02-2021,19-02-2021
+613953,43,Other,Migraine,Neurological,Medicaid,Regional Health Center,Golden Valley Hospital,78901,20143.56,0.8,16114.85,4028.71,12-11-2023,13-11-2023
+629656,31,Female,Fracture - Arm,Injury,Employer Plan,Evergreen Health,Riverside Hospital,91054,28246.74,0.82,23162.33,5084.41,22-09-2023,25-09-2023
+847410,37,Other,COVID-19,Infectious,Employer Plan,BlueRiver Medical,City Medical Plaza,92908,12143.55,0.62,7529,4614.55,24-12-2022,27-12-2022
+793023,53,Male,Arthritis,Chronic,Medicaid,PrimeCare Hospital,Golden Valley Hospital,73907,17355.35,0.51,8851.23,8504.12,28-04-2023,02-05-2023
+606713,45,Male,Diabetes Type 2,Chronic,Commercial,ABC Health Clinic,Golden Valley Hospital,98807,15819.18,0.85,13446.3,2372.88,19-07-2020,26-07-2020
+412257,25,Other,Heart Failure,Critical,Employer Plan,ABC Health Clinic,St. Mary Medical Center,91628,19449.89,0.69,13420.42,6029.47,21-01-2024,27-01-2024
+289073,86,Male,Fracture - Arm,Injury,Employer Plan,CityCare Specialists,Riverside Hospital,77549,5673.43,0.9,5106.09,567.34,08-05-2021,20-05-2021
+676515,40,Female,COVID-19,Infectious,Medicaid,BlueRiver Medical,St. Mary Medical Center,86991,9319.96,0.93,8667.56,652.4,26-10-2022,03-11-2022
+988698,80,Other,COVID-19,Infectious,Commercial,Metro Hospital,MountainView Health,91438,12761.93,0.85,10847.64,1914.29,19-02-2021,25-02-2021
+590999,87,Other,Arthritis,Chronic,Medicare,Regional Health Center,Golden Valley Hospital,84191,19151.29,0.72,13788.93,5362.36,28-09-2022,01-10-2022
+375848,77,Other,Hypertension,Chronic,Medicaid,Metro Hospital,Riverside Hospital,95416,6663.72,0.8,5330.98,1332.74,13-04-2023,18-04-2023
+475854,47,Male,Diabetes Type 2,Chronic,Medicare,BlueRiver Medical,General Hospital,71609,27091.99,0.54,14629.67,12462.32,30-08-2023,06-09-2023
+237854,58,Male,Asthma,Chronic,Employer Plan,CityCare Specialists,St. Mary Medical Center,80338,8197.34,0.9,7377.61,819.73,22-05-2023,04-06-2023
+782886,81,Female,Diabetes Type 2,Chronic,Employer Plan,Sunrise Health,St. Mary Medical Center,95553,2942.74,0.52,1530.22,1412.52,28-08-2020,31-08-2020
+412849,76,Female,Arthritis,Chronic,Medicare,Regional Health Center,Golden Valley Hospital,76785,3263.74,0.76,2480.44,783.3,13-08-2021,21-08-2021
+918438,80,Other,Fracture - Arm,Injury,Medicaid,BlueRiver Medical,MountainView Health,88443,13199.13,0.58,7655.5,5543.63,22-12-2022,04-01-2023
+837744,53,Male,Heart Failure,Critical,Medicare,Regional Health Center,MountainView Health,99301,11117.45,0.92,10228.05,889.4,14-07-2022,21-07-2022
+909359,31,Female,Fracture - Arm,Injury,Medicare,Regional Health Center,MountainView Health,71404,14100.05,0.66,9306.03,4794.02,15-08-2020,19-08-2020
+899180,38,Male,Fracture - Arm,Injury,Employer Plan,Regional Health Center,General Hospital,74933,11376.92,0.7,7963.84,3413.08,11-08-2020,13-08-2020
+270948,71,Female,Asthma,Chronic,Commercial,CityCare Specialists,City Medical Plaza,98074,19782.88,0.62,12265.39,7517.49,17-06-2021,21-06-2021
+882259,53,Male,Fracture - Arm,Injury,Commercial,ABC Health Clinic,Golden Valley Hospital,85475,20662.94,0.9,18596.65,2066.29,29-10-2022,02-11-2022
+627409,22,Other,Migraine,Neurological,Medicaid,Regional Health Center,City Medical Plaza,81563,3815.04,0.98,3738.74,76.3,09-09-2021,16-09-2021
+497891,36,Female,Asthma,Chronic,Medicare,PrimeCare Hospital,City Medical Plaza,72462,9749.03,0.72,7019.3,2729.73,05-07-2020,09-07-2020
+756521,19,Female,Heart Failure,Critical,Medicare,Evergreen Health,City Medical Plaza,87310,21139,0.9,19025.1,2113.9,05-06-2022,10-06-2022
+807910,43,Other,Diabetes Type 2,Chronic,Employer Plan,Metro Hospital,General Hospital,98618,29770.94,0.64,19053.4,10717.54,19-04-2023,29-04-2023
+975206,19,Female,Heart Failure,Critical,Employer Plan,ABC Health Clinic,St. Mary Medical Center,90426,29405.82,0.82,24112.77,5293.05,07-05-2021,10-05-2021
+575147,84,Female,Hypertension,Chronic,Medicaid,CityCare Specialists,General Hospital,99327,1654.04,0.5,827.02,827.02,24-01-2023,06-02-2023
+956841,77,Female,Heart Failure,Critical,Medicare,BlueRiver Medical,General Hospital,95973,7733.35,0.53,4098.68,3634.67,14-06-2023,20-06-2023
+878424,44,Male,Diabetes Type 2,Chronic,Employer Plan,Sunrise Health,St. Mary Medical Center,92539,10961.19,0.72,7892.06,3069.13,19-07-2020,29-07-2020
+339455,65,Other,Diabetes Type 2,Chronic,Medicare,ABC Health Clinic,MountainView Health,86035,6477.44,0.64,4145.56,2331.88,22-07-2021,24-07-2021
+631740,32,Male,Pneumonia,Acute,Medicare,Evergreen Health,City Medical Plaza,90361,17080.85,0.9,15372.76,1708.09,04-11-2021,14-11-2021
+514027,39,Female,Pneumonia,Acute,Medicare,Regional Health Center,Golden Valley Hospital,84541,23865.94,0.98,23388.62,477.32,15-03-2021,24-03-2021
+207615,50,Male,Pneumonia,Acute,Employer Plan,CityCare Specialists,Golden Valley Hospital,78386,8728.61,0.86,7506.6,1222.01,24-11-2023,05-12-2023
+700724,87,Male,Fracture - Arm,Injury,Medicaid,Evergreen Health,Golden Valley Hospital,75919,24682.88,0.94,23201.91,1480.97,26-08-2023,07-09-2023
+657665,22,Male,Pneumonia,Acute,Commercial,BlueRiver Medical,Riverside Hospital,72253,4869.23,0.5,2434.61,2434.62,03-08-2023,06-08-2023
+747952,71,Female,Fracture - Arm,Injury,Employer Plan,BlueRiver Medical,City Medical Plaza,92778,24972.78,0.93,23224.69,1748.09,21-11-2020,30-11-2020
+140542,39,Female,Migraine,Neurological,Employer Plan,Sunrise Health,General Hospital,84166,3809.6,0.9,3428.64,380.96,19-07-2021,27-07-2021
+890474,46,Female,COVID-19,Infectious,Employer Plan,ABC Health Clinic,MountainView Health,87965,14718.71,0.65,9567.16,5151.55,31-12-2023,01-01-2024
+597488,83,Male,Pneumonia,Acute,Medicaid,BlueRiver Medical,City Medical Plaza,91615,5296.48,0.8,4237.18,1059.3,09-12-2021,20-12-2021
+861195,37,Male,Fracture - Arm,Injury,Employer Plan,ABC Health Clinic,Golden Valley Hospital,77954,22312.1,0.8,17849.68,4462.42,14-10-2021,27-10-2021
+335707,74,Female,Pneumonia,Acute,Commercial,PrimeCare Hospital,City Medical Plaza,98501,8127.43,0.61,4957.73,3169.7,08-05-2023,18-05-2023
+641529,43,Other,Influenza,Infectious,Employer Plan,BlueRiver Medical,Riverside Hospital,89183,4506.28,0.78,3514.9,991.38,14-03-2021,25-03-2021
+438585,59,Other,Arthritis,Chronic,Medicaid,ABC Health Clinic,Golden Valley Hospital,70941,18559.96,0.81,15033.57,3526.39,28-05-2023,29-05-2023
+572295,89,Other,Pneumonia,Acute,Medicaid,BlueRiver Medical,Riverside Hospital,92886,14786.18,0.59,8723.85,6062.33,13-10-2021,24-10-2021
+832722,54,Female,Migraine,Neurological,Employer Plan,Sunrise Health,City Medical Plaza,78792,25246.32,0.65,16410.11,8836.21,25-04-2020,01-05-2020
+915363,66,Other,COVID-19,Infectious,Commercial,Unity Clinic,General Hospital,77382,24015.42,0.65,15610.02,8405.4,16-01-2022,25-01-2022
+759993,42,Female,Asthma,Chronic,Medicare,Regional Health Center,Golden Valley Hospital,88765,3241.48,0.74,2398.7,842.78,20-08-2022,24-08-2022
+398076,62,Other,Heart Failure,Critical,Medicare,ABC Health Clinic,Golden Valley Hospital,97241,18998.41,0.8,15198.73,3799.68,23-06-2023,27-06-2023
+817221,81,Other,Influenza,Infectious,Medicaid,Evergreen Health,Golden Valley Hospital,80064,28705.13,0.57,16361.92,12343.21,11-10-2021,20-10-2021
+100390,67,Female,Pneumonia,Acute,Medicare,Metro Hospital,MountainView Health,85284,20755.21,0.52,10792.71,9962.5,05-10-2021,16-10-2021
+960661,21,Male,Fracture - Arm,Injury,Medicaid,CityCare Specialists,General Hospital,74386,4819.62,0.62,2988.16,1831.46,18-10-2020,20-10-2020
+895379,60,Other,Influenza,Infectious,Medicaid,ABC Health Clinic,Riverside Hospital,77354,12089.08,0.79,9550.37,2538.71,30-10-2020,09-11-2020
+910927,56,Male,Pneumonia,Acute,Medicaid,Unity Clinic,Riverside Hospital,91569,19457.65,0.9,17511.89,1945.76,18-01-2023,23-01-2023
+653214,88,Male,Hypertension,Chronic,Commercial,Evergreen Health,St. Mary Medical Center,98396,12732.88,0.79,10058.98,2673.9,20-08-2021,23-08-2021
+830212,35,Other,Migraine,Neurological,Medicaid,Sunrise Health,St. Mary Medical Center,72080,5750.51,0.88,5060.45,690.06,11-05-2022,22-05-2022
+316486,26,Female,Migraine,Neurological,Employer Plan,Evergreen Health,City Medical Plaza,71184,17656.44,0.67,11829.81,5826.63,08-02-2022,12-02-2022
+892038,61,Female,Diabetes Type 2,Chronic,Commercial,Evergreen Health,Riverside Hospital,86081,12421.64,0.6,7452.98,4968.66,29-12-2020,09-01-2021
+574718,28,Other,Diabetes Type 2,Chronic,Employer Plan,Metro Hospital,St. Mary Medical Center,76748,3441.11,0.6,2064.67,1376.44,17-01-2021,23-01-2021
+322633,42,Other,Influenza,Infectious,Medicare,Evergreen Health,Riverside Hospital,98815,26189.33,0.58,15189.81,10999.52,11-08-2020,23-08-2020
+833362,66,Male,COVID-19,Infectious,Medicare,Unity Clinic,City Medical Plaza,89158,23950.65,0.64,15328.42,8622.23,06-01-2024,16-01-2024
+226202,56,Female,Fracture - Arm,Injury,Medicare,ABC Health Clinic,Riverside Hospital,99449,7265.38,0.69,5013.11,2252.27,20-11-2023,26-11-2023
+197628,36,Other,Heart Failure,Critical,Employer Plan,Evergreen Health,St. Mary Medical Center,78531,15021.39,0.5,7510.69,7510.7,26-03-2021,08-04-2021
+391975,33,Male,Asthma,Chronic,Employer Plan,Sunrise Health,MountainView Health,76477,28854.04,0.52,15004.1,13849.94,15-01-2020,22-01-2020
+617733,58,Female,Heart Failure,Critical,Medicare,PrimeCare Hospital,MountainView Health,72313,28460.17,0.9,25614.15,2846.02,09-08-2022,10-08-2022
+267896,67,Male,Hypertension,Chronic,Employer Plan,Sunrise Health,MountainView Health,72936,3184.52,0.83,2643.15,541.37,22-08-2022,02-09-2022
+520888,35,Female,Diabetes Type 2,Chronic,Commercial,Sunrise Health,MountainView Health,88610,10937.67,0.87,9515.77,1421.9,16-05-2020,24-05-2020
+705151,85,Female,Influenza,Infectious,Medicaid,ABC Health Clinic,St. Mary Medical Center,79095,17171.13,0.96,16484.28,686.85,28-08-2021,10-09-2021
+562092,86,Male,Pneumonia,Acute,Medicaid,CityCare Specialists,St. Mary Medical Center,79281,18249.37,0.55,10037.15,8212.22,23-06-2020,05-07-2020
+270956,72,Other,Asthma,Chronic,Commercial,Evergreen Health,City Medical Plaza,76681,26417.76,0.9,23775.98,2641.78,22-12-2023,30-12-2023
+798600,82,Other,Fracture - Arm,Injury,Medicaid,Evergreen Health,Golden Valley Hospital,81538,11024.49,0.85,9370.82,1653.67,29-11-2021,30-11-2021
+496178,45,Other,Pneumonia,Acute,Medicare,Metro Hospital,City Medical Plaza,84745,26868.93,0.81,21763.83,5105.1,06-04-2023,12-04-2023
+751084,71,Female,Asthma,Chronic,Employer Plan,BlueRiver Medical,MountainView Health,79654,28554.28,0.92,26269.94,2284.34,25-03-2020,03-04-2020
+742536,82,Female,Fracture - Arm,Injury,Commercial,Evergreen Health,Riverside Hospital,86234,13424.1,0.67,8994.15,4429.95,05-05-2021,07-05-2021
+761334,38,Male,Fracture - Arm,Injury,Commercial,CityCare Specialists,Riverside Hospital,99998,2218.17,0.67,1486.17,732,09-12-2022,13-12-2022
+618490,23,Other,Influenza,Infectious,Medicare,Sunrise Health,City Medical Plaza,77257,16125.49,0.56,9030.27,7095.22,15-04-2023,22-04-2023
+816435,34,Male,Diabetes Type 2,Chronic,Medicare,CityCare Specialists,General Hospital,72181,27378.43,0.62,16974.63,10403.8,20-06-2022,03-07-2022
+469738,31,Female,Heart Failure,Critical,Commercial,Evergreen Health,City Medical Plaza,71378,3235.71,0.51,1650.21,1585.5,18-06-2023,22-06-2023
+696860,52,Female,Hypertension,Chronic,Employer Plan,Sunrise Health,City Medical Plaza,98592,26057.45,0.78,20324.81,5732.64,10-12-2020,12-12-2020
+165756,36,Other,Asthma,Chronic,Medicare,Unity Clinic,Riverside Hospital,97464,17805.5,0.59,10505.24,7300.26,18-07-2022,30-07-2022
+803335,72,Female,Diabetes Type 2,Chronic,Medicare,Unity Clinic,City Medical Plaza,75753,3420.24,0.9,3078.22,342.02,04-07-2021,14-07-2021
+147645,35,Male,Influenza,Infectious,Commercial,Regional Health Center,General Hospital,80860,24261.69,0.95,23048.61,1213.08,28-09-2020,01-10-2020
+237080,69,Male,Fracture - Arm,Injury,Medicare,Regional Health Center,St. Mary Medical Center,87006,20853.4,0.95,19810.73,1042.67,26-07-2022,08-08-2022
+902121,78,Other,Influenza,Infectious,Employer Plan,ABC Health Clinic,Golden Valley Hospital,85103,27075.49,0.62,16786.8,10288.69,29-04-2021,12-05-2021
+975817,30,Male,Migraine,Neurological,Medicaid,BlueRiver Medical,General Hospital,84643,16098.12,0.83,13361.44,2736.68,25-07-2021,01-08-2021
+142598,57,Other,Migraine,Neurological,Commercial,ABC Health Clinic,City Medical Plaza,90470,5814.08,0.57,3314.03,2500.05,26-02-2022,10-03-2022
+197462,19,Male,COVID-19,Infectious,Commercial,Evergreen Health,Golden Valley Hospital,81970,10397.41,0.71,7382.16,3015.25,04-06-2022,08-06-2022
+519007,86,Other,Arthritis,Chronic,Commercial,ABC Health Clinic,Golden Valley Hospital,71390,27763.13,0.89,24709.19,3053.94,16-10-2023,20-10-2023
+684718,72,Other,Fracture - Arm,Injury,Medicaid,Metro Hospital,Riverside Hospital,72917,19784.7,0.51,10090.2,9694.5,31-10-2020,09-11-2020
+838447,68,Female,Pneumonia,Acute,Commercial,Metro Hospital,City Medical Plaza,79164,26332.48,0.88,23172.58,3159.9,01-07-2021,10-07-2021
+948389,41,Female,Fracture - Arm,Injury,Medicaid,Sunrise Health,General Hospital,85511,8091.48,0.62,5016.72,3074.76,12-06-2022,14-06-2022
+994235,20,Other,Arthritis,Chronic,Medicare,ABC Health Clinic,St. Mary Medical Center,87071,10871.44,0.82,8914.58,1956.86,30-05-2023,10-06-2023
+867303,68,Female,Fracture - Arm,Injury,Medicare,Metro Hospital,City Medical Plaza,86574,3836.02,0.81,3107.18,728.84,24-11-2022,05-12-2022
+817186,24,Other,Hypertension,Chronic,Commercial,Unity Clinic,MountainView Health,73158,6295.94,0.9,5666.35,629.59,20-11-2021,24-11-2021
+921412,76,Other,Hypertension,Chronic,Commercial,PrimeCare Hospital,Riverside Hospital,70371,28115.18,0.69,19399.47,8715.71,17-07-2023,30-07-2023
+412636,48,Other,Hypertension,Chronic,Employer Plan,BlueRiver Medical,MountainView Health,84998,18942.24,0.65,12312.46,6629.78,20-09-2023,26-09-2023
+901818,32,Female,Pneumonia,Acute,Commercial,BlueRiver Medical,Riverside Hospital,91181,28348.66,0.64,18143.14,10205.52,10-09-2022,18-09-2022
+337919,78,Female,Pneumonia,Acute,Medicare,Metro Hospital,St. Mary Medical Center,83757,8785.71,0.75,6589.28,2196.43,04-10-2023,06-10-2023
+921190,48,Male,Influenza,Infectious,Medicaid,BlueRiver Medical,Riverside Hospital,84645,15009.18,0.72,10806.61,4202.57,22-01-2023,04-02-2023
+989171,78,Male,Arthritis,Chronic,Commercial,PrimeCare Hospital,St. Mary Medical Center,89065,20696.08,0.57,11796.77,8899.31,27-04-2022,07-05-2022
+807062,19,Male,Fracture - Arm,Injury,Medicaid,Unity Clinic,General Hospital,99670,25601.13,0.62,15872.7,9728.43,23-03-2021,26-03-2021
+294152,54,Male,Migraine,Neurological,Medicaid,Sunrise Health,St. Mary Medical Center,94840,17283.97,0.75,12962.98,4320.99,25-07-2023,27-07-2023
+486486,46,Female,Hypertension,Chronic,Medicaid,Evergreen Health,General Hospital,99566,13770.27,0.56,7711.35,6058.92,07-07-2023,20-07-2023
+955121,44,Other,Hypertension,Chronic,Employer Plan,Sunrise Health,MountainView Health,77867,29838.41,0.61,18201.43,11636.98,23-05-2022,31-05-2022
+699095,30,Female,Arthritis,Chronic,Medicare,Metro Hospital,City Medical Plaza,94746,20754.22,0.74,15358.12,5396.1,07-01-2023,09-01-2023
+395830,71,Other,COVID-19,Infectious,Medicaid,Regional Health Center,Riverside Hospital,72118,15272.11,0.97,14813.95,458.16,12-08-2023,18-08-2023
+399477,82,Female,Hypertension,Chronic,Employer Plan,CityCare Specialists,Riverside Hospital,71820,21631.6,0.67,14493.17,7138.43,25-12-2023,06-01-2024
+893897,68,Other,Arthritis,Chronic,Employer Plan,Regional Health Center,Riverside Hospital,82197,29768.84,0.96,28578.09,1190.75,24-10-2023,01-11-2023
+406606,88,Other,Arthritis,Chronic,Commercial,Sunrise Health,MountainView Health,95186,11853.27,0.71,8415.82,3437.45,03-04-2021,07-04-2021
+118557,46,Other,Influenza,Infectious,Medicaid,CityCare Specialists,General Hospital,83854,11170.7,0.84,9383.39,1787.31,01-05-2020,02-05-2020
+854981,31,Other,Influenza,Infectious,Commercial,BlueRiver Medical,Golden Valley Hospital,98610,19594.84,0.56,10973.11,8621.73,11-02-2023,24-02-2023
+164384,69,Male,Arthritis,Chronic,Medicare,Metro Hospital,Riverside Hospital,79088,8538.39,0.91,7769.93,768.46,06-05-2021,17-05-2021
+886492,71,Female,Hypertension,Chronic,Employer Plan,Metro Hospital,General Hospital,81962,26813.45,0.6,16088.07,10725.38,12-09-2023,24-09-2023
+744942,51,Female,Pneumonia,Acute,Medicaid,Evergreen Health,Riverside Hospital,70001,6275.65,0.65,4079.17,2196.48,29-04-2021,11-05-2021
+331237,39,Male,Pneumonia,Acute,Medicare,Unity Clinic,City Medical Plaza,73129,3992.23,0.68,2714.72,1277.51,14-02-2020,15-02-2020
+170934,40,Female,Fracture - Arm,Injury,Commercial,Metro Hospital,MountainView Health,80860,25808.4,0.56,14452.7,11355.7,28-12-2022,10-01-2023
+213793,72,Female,Hypertension,Chronic,Employer Plan,Evergreen Health,Golden Valley Hospital,77798,15115.65,0.73,11034.42,4081.23,19-03-2020,22-03-2020
+622070,46,Female,Hypertension,Chronic,Medicare,Sunrise Health,Riverside Hospital,93865,19324.85,0.89,17199.12,2125.73,08-09-2021,09-09-2021
+513244,31,Female,Fracture - Arm,Injury,Medicaid,Evergreen Health,St. Mary Medical Center,74321,21131.1,0.76,16059.64,5071.46,13-08-2022,14-08-2022
+765673,80,Other,COVID-19,Infectious,Commercial,BlueRiver Medical,General Hospital,92559,11831.31,0.9,10648.18,1183.13,05-07-2020,07-07-2020
+543833,19,Other,Pneumonia,Acute,Medicaid,Evergreen Health,City Medical Plaza,85630,7181.35,0.7,5026.94,2154.41,22-03-2021,01-04-2021
+887424,42,Male,Migraine,Neurological,Medicaid,Sunrise Health,City Medical Plaza,86727,5694.15,0.64,3644.26,2049.89,18-10-2021,26-10-2021
+880516,74,Female,Influenza,Infectious,Employer Plan,BlueRiver Medical,General Hospital,89267,27892.7,0.58,16177.77,11714.93,02-01-2021,10-01-2021
+512601,38,Female,Fracture - Arm,Injury,Medicare,BlueRiver Medical,St. Mary Medical Center,94428,26483.49,0.85,22510.97,3972.52,10-04-2020,23-04-2020
+965361,34,Male,Hypertension,Chronic,Medicare,Regional Health Center,St. Mary Medical Center,77162,22530.94,0.79,17799.44,4731.5,16-04-2020,28-04-2020
+294824,44,Other,Migraine,Neurological,Commercial,ABC Health Clinic,St. Mary Medical Center,84259,15390.46,0.83,12774.08,2616.38,01-04-2020,02-04-2020
+221169,70,Other,Diabetes Type 2,Chronic,Medicare,ABC Health Clinic,General Hospital,94480,13779.46,0.65,8956.65,4822.81,04-10-2021,15-10-2021
+778960,72,Female,Asthma,Chronic,Employer Plan,Regional Health Center,MountainView Health,94436,18639.45,0.66,12302.04,6337.41,17-05-2022,25-05-2022
+396124,71,Female,Hypertension,Chronic,Medicare,Sunrise Health,St. Mary Medical Center,99813,20702.05,0.72,14905.48,5796.57,26-03-2023,02-04-2023
+309755,23,Other,Influenza,Infectious,Medicaid,Evergreen Health,General Hospital,91017,2265.73,0.68,1540.7,725.03,20-08-2022,24-08-2022
+558819,43,Other,Diabetes Type 2,Chronic,Medicaid,Metro Hospital,MountainView Health,91209,16463.91,0.84,13829.68,2634.23,12-06-2022,14-06-2022
+782265,38,Female,COVID-19,Infectious,Medicare,Evergreen Health,City Medical Plaza,85126,12549.31,0.57,7153.11,5396.2,09-05-2020,13-05-2020
+232371,76,Female,Asthma,Chronic,Commercial,BlueRiver Medical,St. Mary Medical Center,96111,29299.2,0.78,22853.38,6445.82,04-11-2021,16-11-2021
+216220,23,Male,Pneumonia,Acute,Medicaid,CityCare Specialists,MountainView Health,90659,24748.74,0.79,19551.5,5197.24,10-12-2022,18-12-2022
+301798,65,Other,Arthritis,Chronic,Employer Plan,PrimeCare Hospital,Riverside Hospital,92884,23638.76,0.91,21511.27,2127.49,06-06-2021,09-06-2021
+622820,40,Male,Migraine,Neurological,Medicare,ABC Health Clinic,City Medical Plaza,92469,7534.76,0.52,3918.08,3616.68,18-03-2023,27-03-2023
+848810,55,Female,Heart Failure,Critical,Medicare,ABC Health Clinic,Golden Valley Hospital,94054,21998.49,0.95,20898.57,1099.92,29-12-2020,05-01-2021
+594829,51,Male,COVID-19,Infectious,Medicaid,Metro Hospital,General Hospital,95538,10129.09,0.76,7698.11,2430.98,18-02-2022,25-02-2022
+225865,30,Female,COVID-19,Infectious,Medicare,Unity Clinic,General Hospital,73203,18106.56,0.56,10139.67,7966.89,01-11-2022,02-11-2022
+894953,23,Male,Asthma,Chronic,Commercial,Sunrise Health,MountainView Health,76984,13124.85,0.63,8268.66,4856.19,27-09-2021,02-10-2021
+298153,25,Male,COVID-19,Infectious,Employer Plan,Unity Clinic,St. Mary Medical Center,93508,24445.83,0.57,13934.12,10511.71,22-04-2021,29-04-2021
+504499,24,Male,Hypertension,Chronic,Medicaid,Unity Clinic,Golden Valley Hospital,71269,26080.95,0.65,16952.62,9128.33,30-10-2023,09-11-2023
+533541,34,Other,Diabetes Type 2,Chronic,Medicaid,BlueRiver Medical,Riverside Hospital,85479,29215.15,0.75,21911.36,7303.79,26-02-2020,04-03-2020
+527991,50,Other,Diabetes Type 2,Chronic,Employer Plan,Sunrise Health,MountainView Health,76495,25601.52,0.55,14080.84,11520.68,19-04-2020,28-04-2020
+926547,59,Female,COVID-19,Infectious,Medicare,Evergreen Health,St. Mary Medical Center,76200,3003.2,0.9,2702.88,300.32,21-04-2021,28-04-2021
+768903,50,Male,Diabetes Type 2,Chronic,Medicaid,Metro Hospital,City Medical Plaza,93777,19076.31,0.91,17359.44,1716.87,17-10-2022,23-10-2022
+749837,89,Male,Migraine,Neurological,Medicaid,Evergreen Health,MountainView Health,78368,29038.82,0.97,28167.66,871.16,02-04-2023,03-04-2023
+985678,30,Male,Pneumonia,Acute,Medicaid,ABC Health Clinic,St. Mary Medical Center,99412,9766.25,0.6,5859.75,3906.5,28-06-2023,04-07-2023
+449903,82,Female,Migraine,Neurological,Medicare,BlueRiver Medical,St. Mary Medical Center,90536,17098.75,0.58,9917.27,7181.48,20-04-2023,03-05-2023
+125938,46,Other,COVID-19,Infectious,Employer Plan,CityCare Specialists,Riverside Hospital,87515,28965.03,0.68,19696.22,9268.81,08-09-2022,20-09-2022
+637857,24,Female,COVID-19,Infectious,Employer Plan,Evergreen Health,Golden Valley Hospital,91691,24358.09,0.58,14127.69,10230.4,21-11-2023,26-11-2023
+361578,69,Male,Influenza,Infectious,Medicare,CityCare Specialists,St. Mary Medical Center,87143,27401.56,0.86,23565.34,3836.22,19-02-2021,22-02-2021
+894878,32,Male,Arthritis,Chronic,Medicare,Regional Health Center,Riverside Hospital,77787,19073.73,0.52,9918.34,9155.39,29-05-2023,03-06-2023
+319631,57,Male,Fracture - Arm,Injury,Commercial,Regional Health Center,City Medical Plaza,83161,2481.29,0.71,1761.72,719.57,22-12-2020,23-12-2020
+257403,26,Male,Arthritis,Chronic,Employer Plan,Unity Clinic,MountainView Health,97959,4941.28,0.97,4793.04,148.24,03-06-2023,16-06-2023
+983302,75,Female,COVID-19,Infectious,Medicaid,Regional Health Center,City Medical Plaza,86928,7631.94,0.8,6105.55,1526.39,29-01-2023,01-02-2023
+729112,32,Female,Migraine,Neurological,Medicare,ABC Health Clinic,Golden Valley Hospital,90786,7299.41,0.96,7007.43,291.98,12-05-2022,14-05-2022
+604655,53,Male,Fracture - Arm,Injury,Employer Plan,CityCare Specialists,MountainView Health,90580,13884.13,0.92,12773.4,1110.73,19-10-2021,30-10-2021
+857666,80,Male,Fracture - Arm,Injury,Medicaid,Sunrise Health,Golden Valley Hospital,78963,15442.98,0.56,8648.07,6794.91,09-03-2021,21-03-2021
+356681,86,Female,COVID-19,Infectious,Medicare,Evergreen Health,St. Mary Medical Center,94336,12899.52,0.53,6836.75,6062.77,08-04-2023,14-04-2023
+665158,66,Female,Arthritis,Chronic,Commercial,Unity Clinic,MountainView Health,78624,9545.94,0.78,7445.83,2100.11,02-08-2020,04-08-2020
+701648,48,Other,Heart Failure,Critical,Employer Plan,ABC Health Clinic,Riverside Hospital,74022,27433.01,0.84,23043.73,4389.28,08-01-2023,17-01-2023
+947214,32,Other,Pneumonia,Acute,Employer Plan,Regional Health Center,Riverside Hospital,85728,3871.86,0.91,3523.39,348.47,17-05-2021,29-05-2021
+745936,72,Male,Heart Failure,Critical,Employer Plan,Evergreen Health,Golden Valley Hospital,82212,3272.85,0.89,2912.84,360.01,11-06-2021,16-06-2021
+467508,34,Female,Migraine,Neurological,Medicare,ABC Health Clinic,Golden Valley Hospital,94620,6991.28,0.56,3915.12,3076.16,17-05-2022,21-05-2022
+180691,36,Male,Fracture - Arm,Injury,Medicare,PrimeCare Hospital,MountainView Health,94058,28287.84,0.66,18669.97,9617.87,16-02-2022,26-02-2022
+654280,86,Female,COVID-19,Infectious,Medicaid,Unity Clinic,Riverside Hospital,71467,21610.04,0.75,16207.53,5402.51,01-05-2023,13-05-2023
+472454,47,Male,Hypertension,Chronic,Medicare,Metro Hospital,City Medical Plaza,73129,5331.35,0.72,3838.57,1492.78,08-01-2024,16-01-2024
+654661,60,Other,Asthma,Chronic,Employer Plan,CityCare Specialists,General Hospital,86012,23213.86,0.93,21588.89,1624.97,08-08-2020,19-08-2020
+710224,53,Female,COVID-19,Infectious,Commercial,Unity Clinic,General Hospital,91376,23877.91,0.73,17430.87,6447.04,01-04-2020,09-04-2020
+488333,37,Female,Arthritis,Chronic,Medicare,PrimeCare Hospital,City Medical Plaza,83841,10743.37,0.96,10313.64,429.73,19-01-2020,20-01-2020
+158560,20,Female,Migraine,Neurological,Commercial,Sunrise Health,Riverside Hospital,95752,14027.54,0.75,10520.66,3506.88,24-02-2020,28-02-2020
+318547,61,Male,Diabetes Type 2,Chronic,Medicare,BlueRiver Medical,Golden Valley Hospital,75490,8873.26,0.67,5945.08,2928.18,19-07-2020,20-07-2020
+687073,36,Other,Heart Failure,Critical,Commercial,Unity Clinic,St. Mary Medical Center,86698,16819.89,0.51,8578.14,8241.75,31-07-2022,02-08-2022
+555229,36,Male,Migraine,Neurological,Commercial,CityCare Specialists,City Medical Plaza,78949,16839.27,0.76,12797.85,4041.42,27-02-2021,12-03-2021
+283683,42,Male,Pneumonia,Acute,Employer Plan,Sunrise Health,MountainView Health,78498,4457.06,0.64,2852.52,1604.54,16-12-2022,19-12-2022
+158123,34,Female,Heart Failure,Critical,Commercial,ABC Health Clinic,General Hospital,91120,11388.33,0.71,8085.71,3302.62,27-09-2020,09-10-2020
+281143,77,Male,Asthma,Chronic,Medicaid,ABC Health Clinic,City Medical Plaza,87483,21606.47,0.59,12747.82,8858.65,18-04-2020,19-04-2020
+773289,64,Other,Fracture - Arm,Injury,Employer Plan,Unity Clinic,St. Mary Medical Center,80095,29058.6,0.77,22375.12,6683.48,13-06-2021,24-06-2021
+297286,66,Male,Diabetes Type 2,Chronic,Employer Plan,BlueRiver Medical,Golden Valley Hospital,71502,21963.4,0.68,14935.11,7028.29,26-11-2023,08-12-2023
+686789,76,Other,Influenza,Infectious,Commercial,Sunrise Health,Golden Valley Hospital,77367,29051.93,0.96,27889.85,1162.08,23-01-2021,04-02-2021
+880445,21,Other,Pneumonia,Acute,Employer Plan,Sunrise Health,MountainView Health,93755,6078.06,0.58,3525.27,2552.79,28-03-2023,04-04-2023
+727503,37,Male,Arthritis,Chronic,Commercial,Regional Health Center,General Hospital,84336,22797.98,0.52,11854.95,10943.03,09-09-2021,14-09-2021
+612177,59,Female,Fracture - Arm,Injury,Medicaid,CityCare Specialists,St. Mary Medical Center,92990,17931.53,0.97,17393.58,537.95,04-05-2023,11-05-2023
+657373,58,Other,Asthma,Chronic,Employer Plan,Evergreen Health,St. Mary Medical Center,70709,15524.62,0.97,15058.88,465.74,17-04-2023,19-04-2023
+397515,32,Female,Arthritis,Chronic,Medicaid,PrimeCare Hospital,St. Mary Medical Center,92466,28228.04,0.83,23429.27,4798.77,23-05-2021,04-06-2021
+750332,65,Male,Fracture - Arm,Injury,Medicare,BlueRiver Medical,St. Mary Medical Center,81267,4052.63,0.84,3404.21,648.42,11-12-2022,17-12-2022
+419186,86,Female,Influenza,Infectious,Commercial,ABC Health Clinic,City Medical Plaza,80775,26187.47,0.92,24092.47,2095,15-09-2020,19-09-2020
+975512,57,Female,Asthma,Chronic,Commercial,BlueRiver Medical,MountainView Health,82760,23665.25,0.91,21535.38,2129.87,25-04-2022,08-05-2022
+342330,23,Male,Pneumonia,Acute,Employer Plan,Metro Hospital,Riverside Hospital,88256,21494.61,0.5,10747.31,10747.3,28-06-2020,30-06-2020
+244179,60,Other,COVID-19,Infectious,Medicaid,Evergreen Health,Riverside Hospital,78418,24758.63,0.97,24015.87,742.76,24-03-2020,31-03-2020
+373958,30,Male,Influenza,Infectious,Medicare,BlueRiver Medical,St. Mary Medical Center,92880,12808.5,0.71,9094.03,3714.47,01-10-2021,14-10-2021
+629954,20,Male,COVID-19,Infectious,Commercial,Evergreen Health,City Medical Plaza,96505,19504.09,0.75,14628.07,4876.02,26-06-2021,07-07-2021
+312204,88,Male,Diabetes Type 2,Chronic,Medicaid,Sunrise Health,MountainView Health,80680,3002.51,0.71,2131.78,870.73,30-01-2021,06-02-2021
+543942,34,Male,Arthritis,Chronic,Medicare,Evergreen Health,Riverside Hospital,91229,23612.5,0.89,21015.12,2597.38,01-08-2020,05-08-2020
+943352,89,Male,Hypertension,Chronic,Employer Plan,Metro Hospital,Golden Valley Hospital,83937,16568.16,0.52,8615.44,7952.72,04-04-2023,10-04-2023
+737300,54,Female,Asthma,Chronic,Commercial,CityCare Specialists,General Hospital,96639,4472.92,0.57,2549.56,1923.36,28-05-2021,10-06-2021
+332911,76,Male,Fracture - Arm,Injury,Employer Plan,PrimeCare Hospital,City Medical Plaza,89091,19342.56,0.54,10444.98,8897.58,30-08-2023,12-09-2023
+681529,24,Female,Migraine,Neurological,Commercial,Unity Clinic,City Medical Plaza,90950,24902.56,0.97,24155.48,747.08,11-08-2020,21-08-2020
+803023,36,Male,Arthritis,Chronic,Medicare,ABC Health Clinic,MountainView Health,85229,9011.22,0.63,5677.07,3334.15,06-01-2021,17-01-2021
+757253,75,Other,Hypertension,Chronic,Medicare,Evergreen Health,Golden Valley Hospital,73117,2116.9,0.54,1143.13,973.77,08-02-2023,10-02-2023
+847642,82,Other,Asthma,Chronic,Commercial,Evergreen Health,General Hospital,98952,22926.15,0.78,17882.4,5043.75,03-12-2021,06-12-2021
+505377,81,Female,Migraine,Neurological,Medicare,CityCare Specialists,St. Mary Medical Center,71211,23851.73,0.95,22659.14,1192.59,11-02-2023,23-02-2023
+147779,66,Other,Arthritis,Chronic,Employer Plan,Metro Hospital,Riverside Hospital,70969,20361.61,0.89,18121.83,2239.78,01-10-2022,11-10-2022
+298910,43,Male,Hypertension,Chronic,Employer Plan,PrimeCare Hospital,Riverside Hospital,95523,21898.47,0.97,21241.52,656.95,26-07-2020,02-08-2020
+455050,38,Female,Arthritis,Chronic,Commercial,Unity Clinic,St. Mary Medical Center,84009,17823.68,0.57,10159.5,7664.18,25-05-2023,05-06-2023
+628839,25,Male,Migraine,Neurological,Commercial,Unity Clinic,City Medical Plaza,78391,27466.93,0.89,24445.57,3021.36,11-01-2024,19-01-2024
+883123,25,Female,Diabetes Type 2,Chronic,Medicare,Sunrise Health,Golden Valley Hospital,75785,22963.89,0.85,19519.31,3444.58,12-01-2023,25-01-2023
+815637,54,Female,Fracture - Arm,Injury,Commercial,Sunrise Health,City Medical Plaza,87231,16475.19,0.55,9061.35,7413.84,07-06-2020,12-06-2020
+438144,46,Other,Hypertension,Chronic,Commercial,BlueRiver Medical,City Medical Plaza,98036,26953.74,0.83,22371.6,4582.14,22-05-2022,02-06-2022
+166617,63,Female,Influenza,Infectious,Medicare,PrimeCare Hospital,Riverside Hospital,79344,3706.23,0.75,2779.67,926.56,26-10-2021,01-11-2021
+965404,84,Female,COVID-19,Infectious,Medicaid,PrimeCare Hospital,St. Mary Medical Center,95401,21543.4,0.9,19389.06,2154.34,22-07-2020,28-07-2020
+985540,37,Other,Heart Failure,Critical,Employer Plan,Regional Health Center,General Hospital,82224,10453.62,0.96,10035.48,418.14,19-09-2021,02-10-2021
+971901,20,Female,Fracture - Arm,Injury,Commercial,BlueRiver Medical,Golden Valley Hospital,83247,15589.57,0.94,14654.2,935.37,24-03-2021,01-04-2021
+946334,52,Other,Hypertension,Chronic,Commercial,Unity Clinic,General Hospital,74065,18420.01,0.86,15841.21,2578.8,24-04-2020,28-04-2020
+253412,30,Female,Diabetes Type 2,Chronic,Medicaid,Evergreen Health,General Hospital,81241,3080.19,0.9,2772.17,308.02,28-11-2022,01-12-2022
+841067,24,Male,COVID-19,Infectious,Medicare,PrimeCare Hospital,St. Mary Medical Center,83288,18989.97,0.61,11583.88,7406.09,02-10-2020,04-10-2020
+689428,53,Male,Hypertension,Chronic,Employer Plan,BlueRiver Medical,Riverside Hospital,75231,24821.77,0.66,16382.37,8439.4,14-03-2021,23-03-2021
+683247,75,Other,Hypertension,Chronic,Medicare,ABC Health Clinic,Golden Valley Hospital,90183,19837.73,0.59,11704.26,8133.47,29-06-2020,03-07-2020
+531779,85,Male,Diabetes Type 2,Chronic,Medicaid,Sunrise Health,St. Mary Medical Center,96133,8037.71,0.6,4822.63,3215.08,08-02-2020,21-02-2020
+907733,34,Other,Asthma,Chronic,Medicare,Metro Hospital,City Medical Plaza,93041,21215.66,0.82,17396.84,3818.82,18-12-2022,19-12-2022
+121602,75,Other,COVID-19,Infectious,Commercial,ABC Health Clinic,MountainView Health,71537,4550.33,0.87,3958.79,591.54,06-06-2023,08-06-2023
+189743,21,Male,Fracture - Arm,Injury,Medicaid,Evergreen Health,MountainView Health,98036,23220.69,0.95,22059.66,1161.03,02-01-2023,13-01-2023
+948964,62,Female,Influenza,Infectious,Medicare,Metro Hospital,MountainView Health,74195,26457.03,0.63,16667.93,9789.1,18-11-2022,01-12-2022
+992017,42,Other,Arthritis,Chronic,Employer Plan,Regional Health Center,St. Mary Medical Center,83041,5663.75,0.9,5097.38,566.37,20-12-2021,31-12-2021
+879533,20,Other,Diabetes Type 2,Chronic,Medicaid,Unity Clinic,City Medical Plaza,99545,27422.59,0.63,17276.23,10146.36,23-07-2021,01-08-2021
+426968,85,Other,Hypertension,Chronic,Employer Plan,Regional Health Center,City Medical Plaza,74615,15831.95,0.88,13932.12,1899.83,29-10-2023,03-11-2023
+715326,62,Male,COVID-19,Infectious,Employer Plan,Metro Hospital,Golden Valley Hospital,91058,4354.42,0.63,2743.28,1611.14,04-10-2021,14-10-2021
+708952,47,Male,COVID-19,Infectious,Medicaid,ABC Health Clinic,Golden Valley Hospital,91059,13360.59,0.58,7749.14,5611.45,16-08-2023,19-08-2023
+307158,26,Female,Arthritis,Chronic,Medicare,CityCare Specialists,St. Mary Medical Center,78012,25523.95,0.71,18122,7401.95,22-03-2022,01-04-2022
+887199,73,Other,Influenza,Infectious,Medicaid,PrimeCare Hospital,Golden Valley Hospital,81334,5142.64,0.78,4011.26,1131.38,31-01-2021,03-02-2021
+822969,74,Female,Heart Failure,Critical,Medicare,Unity Clinic,Riverside Hospital,96811,18469.32,0.93,17176.47,1292.85,25-03-2021,05-04-2021
+683526,35,Male,Pneumonia,Acute,Employer Plan,Regional Health Center,Golden Valley Hospital,91035,26395.73,0.61,16101.4,10294.33,05-05-2021,18-05-2021
+924187,47,Female,Influenza,Infectious,Commercial,Sunrise Health,Riverside Hospital,85635,21945.12,0.82,17995,3950.12,22-04-2022,30-04-2022
+503666,44,Female,Asthma,Chronic,Employer Plan,CityCare Specialists,St. Mary Medical Center,80652,13546.57,0.84,11379.12,2167.45,16-08-2020,19-08-2020
+730368,33,Other,Fracture - Arm,Injury,Medicaid,BlueRiver Medical,City Medical Plaza,80345,19398.87,0.9,17458.98,1939.89,29-07-2023,03-08-2023
+791150,30,Male,Fracture - Arm,Injury,Medicare,CityCare Specialists,St. Mary Medical Center,82404,19363.87,0.67,12973.79,6390.08,04-07-2021,05-07-2021
+972089,65,Male,Hypertension,Chronic,Medicaid,CityCare Specialists,General Hospital,76789,24323.32,0.72,17512.79,6810.53,24-05-2023,26-05-2023
+331322,58,Female,Hypertension,Chronic,Commercial,Unity Clinic,Golden Valley Hospital,84485,14701.18,0.73,10731.86,3969.32,27-01-2023,02-02-2023
+481382,67,Male,Migraine,Neurological,Medicare,PrimeCare Hospital,Riverside Hospital,96120,6190.13,0.7,4333.09,1857.04,19-02-2022,21-02-2022
+883077,20,Other,COVID-19,Infectious,Employer Plan,Unity Clinic,General Hospital,75522,4620.25,0.96,4435.44,184.81,27-10-2023,08-11-2023
+448292,84,Other,Influenza,Infectious,Medicaid,Regional Health Center,City Medical Plaza,90608,20692.46,0.79,16347.04,4345.42,22-12-2021,03-01-2022
+157676,58,Female,Migraine,Neurological,Medicare,BlueRiver Medical,Riverside Hospital,96005,22379.46,0.83,18574.95,3804.51,12-04-2023,25-04-2023
+147599,32,Other,COVID-19,Infectious,Medicare,Metro Hospital,Riverside Hospital,95345,9162.42,0.98,8979.17,183.25,09-06-2023,19-06-2023
+257212,84,Female,Influenza,Infectious,Employer Plan,Metro Hospital,City Medical Plaza,85682,19542.93,0.93,18174.92,1368.01,16-03-2022,23-03-2022
+719256,82,Male,COVID-19,Infectious,Commercial,Unity Clinic,MountainView Health,94931,3799.09,0.82,3115.25,683.84,13-01-2021,21-01-2021
+790681,20,Other,Diabetes Type 2,Chronic,Employer Plan,Unity Clinic,Golden Valley Hospital,80308,9740.78,0.96,9351.15,389.63,02-09-2021,13-09-2021
+129680,83,Other,Hypertension,Chronic,Commercial,PrimeCare Hospital,Riverside Hospital,76363,16789.41,0.74,12424.16,4365.25,01-11-2023,03-11-2023
+923271,44,Other,Diabetes Type 2,Chronic,Commercial,PrimeCare Hospital,City Medical Plaza,95988,28669.52,0.93,26662.65,2006.87,09-11-2022,22-11-2022
+923333,37,Female,Influenza,Infectious,Medicaid,Sunrise Health,St. Mary Medical Center,70453,10718.12,0.89,9539.13,1178.99,29-03-2022,03-04-2022
+444076,36,Male,Influenza,Infectious,Commercial,ABC Health Clinic,MountainView Health,98253,3577.61,0.8,2862.09,715.52,13-05-2023,22-05-2023
+375381,20,Male,Pneumonia,Acute,Commercial,PrimeCare Hospital,Golden Valley Hospital,85520,5275.41,0.76,4009.31,1266.1,22-05-2021,24-05-2021
+860691,56,Male,Heart Failure,Critical,Employer Plan,Sunrise Health,St. Mary Medical Center,92998,4383.22,0.8,3506.58,876.64,21-05-2021,23-05-2021
+305603,80,Male,Arthritis,Chronic,Employer Plan,Sunrise Health,St. Mary Medical Center,93831,24364.1,0.68,16567.59,7796.51,30-05-2021,09-06-2021
+424036,77,Other,Asthma,Chronic,Employer Plan,CityCare Specialists,City Medical Plaza,81926,25815.51,0.78,20136.1,5679.41,22-03-2023,27-03-2023
+649264,40,Male,Hypertension,Chronic,Medicaid,Regional Health Center,Golden Valley Hospital,92290,24210.55,0.66,15978.96,8231.59,10-04-2021,17-04-2021
+552333,50,Other,Heart Failure,Critical,Medicaid,Sunrise Health,General Hospital,71951,15519.95,0.77,11950.36,3569.59,31-12-2021,06-01-2022
+141954,51,Male,Pneumonia,Acute,Medicaid,BlueRiver Medical,City Medical Plaza,85882,10195.34,0.58,5913.3,4282.04,09-08-2020,10-08-2020
+112879,24,Other,COVID-19,Infectious,Employer Plan,BlueRiver Medical,Golden Valley Hospital,99195,10007.05,0.82,8205.78,1801.27,15-08-2020,16-08-2020
+568255,58,Female,Heart Failure,Critical,Commercial,Regional Health Center,General Hospital,79281,3683.74,0.82,3020.67,663.07,22-07-2022,25-07-2022
+192115,87,Other,Hypertension,Chronic,Commercial,Metro Hospital,City Medical Plaza,71221,27636.69,0.78,21556.62,6080.07,24-08-2020,03-09-2020
+895768,31,Female,Arthritis,Chronic,Commercial,BlueRiver Medical,Riverside Hospital,91470,9531.22,0.63,6004.67,3526.55,19-08-2020,23-08-2020
+749983,75,Male,Arthritis,Chronic,Commercial,Sunrise Health,Riverside Hospital,94179,17027.5,0.63,10727.33,6300.17,16-05-2020,28-05-2020
+974722,81,Female,COVID-19,Infectious,Medicaid,ABC Health Clinic,Golden Valley Hospital,96676,4637.1,0.68,3153.23,1483.87,08-03-2021,15-03-2021
+978691,36,Other,Migraine,Neurological,Medicare,CityCare Specialists,Riverside Hospital,73435,2013.83,0.55,1107.61,906.22,22-01-2021,28-01-2021
+475601,55,Other,COVID-19,Infectious,Commercial,BlueRiver Medical,St. Mary Medical Center,78314,22600.78,0.56,12656.44,9944.34,21-07-2023,28-07-2023
+246429,67,Female,Arthritis,Chronic,Medicaid,ABC Health Clinic,General Hospital,89938,6484.19,0.82,5317.04,1167.15,23-07-2022,31-07-2022
+490555,56,Male,Migraine,Neurological,Medicaid,ABC Health Clinic,Golden Valley Hospital,83460,5911.4,0.64,3783.3,2128.1,28-03-2022,04-04-2022
+420580,21,Female,Heart Failure,Critical,Medicare,Sunrise Health,Riverside Hospital,91922,3093.9,0.57,1763.52,1330.38,25-08-2022,28-08-2022
+283024,60,Other,Diabetes Type 2,Chronic,Medicaid,Unity Clinic,Golden Valley Hospital,80306,26648.66,0.77,20519.47,6129.19,08-02-2022,15-02-2022
+889404,24,Female,Hypertension,Chronic,Employer Plan,Unity Clinic,Riverside Hospital,75463,5365.36,0.57,3058.26,2307.1,16-08-2020,24-08-2020
+257541,51,Other,Arthritis,Chronic,Medicaid,BlueRiver Medical,General Hospital,88705,25502.52,0.6,15301.51,10201.01,29-10-2021,06-11-2021
+765979,88,Other,Migraine,Neurological,Medicaid,Unity Clinic,St. Mary Medical Center,82962,23367.46,0.94,21965.41,1402.05,13-01-2021,15-01-2021
+631661,41,Female,Arthritis,Chronic,Medicare,PrimeCare Hospital,MountainView Health,77642,28052.29,0.55,15428.76,12623.53,09-10-2023,17-10-2023
+512774,80,Other,COVID-19,Infectious,Medicare,PrimeCare Hospital,St. Mary Medical Center,89462,21656.01,0.59,12777.05,8878.96,28-04-2023,05-05-2023
+495739,70,Female,Arthritis,Chronic,Employer Plan,CityCare Specialists,MountainView Health,81375,15840.61,0.74,11722.05,4118.56,05-05-2023,08-05-2023
+899595,37,Other,Heart Failure,Critical,Commercial,Evergreen Health,City Medical Plaza,92982,4203.2,0.76,3194.43,1008.77,27-02-2020,07-03-2020
+490447,58,Male,COVID-19,Infectious,Medicare,Regional Health Center,Golden Valley Hospital,85762,26918.38,0.64,17227.76,9690.62,02-01-2023,06-01-2023
+410258,36,Other,Migraine,Neurological,Commercial,Metro Hospital,St. Mary Medical Center,96962,25768.81,0.58,14945.91,10822.9,14-04-2020,16-04-2020
+138346,65,Female,Arthritis,Chronic,Medicaid,BlueRiver Medical,MountainView Health,81484,28315.08,0.82,23218.37,5096.71,22-10-2023,24-10-2023
+605180,72,Male,Arthritis,Chronic,Employer Plan,Metro Hospital,Golden Valley Hospital,87643,16924.31,0.89,15062.64,1861.67,03-06-2020,04-06-2020
+778387,50,Female,Heart Failure,Critical,Employer Plan,PrimeCare Hospital,General Hospital,81133,16760.75,0.54,9050.81,7709.94,16-05-2020,24-05-2020
+230466,88,Other,Migraine,Neurological,Medicaid,Regional Health Center,St. Mary Medical Center,79496,9873.14,0.82,8095.97,1777.17,30-07-2022,07-08-2022
+722561,63,Female,Heart Failure,Critical,Commercial,ABC Health Clinic,General Hospital,87709,12397.35,0.71,8802.12,3595.23,27-05-2023,08-06-2023
+757191,51,Other,Hypertension,Chronic,Medicare,Regional Health Center,Golden Valley Hospital,80972,9409.4,0.95,8938.93,470.47,13-05-2023,18-05-2023
+576857,86,Female,Arthritis,Chronic,Employer Plan,ABC Health Clinic,General Hospital,86448,3686.62,0.7,2580.63,1105.99,16-11-2023,26-11-2023
+362512,84,Other,COVID-19,Infectious,Medicare,Metro Hospital,General Hospital,83322,12511.49,0.63,7882.24,4629.25,22-02-2020,03-03-2020
+783725,73,Male,Heart Failure,Critical,Medicaid,Regional Health Center,City Medical Plaza,78989,20447.31,0.55,11246.02,9201.29,18-04-2023,24-04-2023
+332682,85,Other,Arthritis,Chronic,Medicare,BlueRiver Medical,General Hospital,73641,21727.51,0.5,10863.75,10863.76,30-01-2021,06-02-2021
+852255,72,Other,COVID-19,Infectious,Medicaid,BlueRiver Medical,General Hospital,96856,27709.59,0.65,18011.23,9698.36,30-10-2023,03-11-2023
+501752,41,Male,Diabetes Type 2,Chronic,Medicare,CityCare Specialists,MountainView Health,96555,11667.96,0.58,6767.42,4900.54,07-04-2021,08-04-2021
+635827,59,Male,Influenza,Infectious,Commercial,BlueRiver Medical,Golden Valley Hospital,93386,16484.45,0.84,13846.94,2637.51,12-09-2021,17-09-2021
+491407,71,Male,Influenza,Infectious,Commercial,ABC Health Clinic,Golden Valley Hospital,75599,17381.68,0.86,14948.24,2433.44,16-02-2023,18-02-2023
+239861,25,Male,Pneumonia,Acute,Commercial,Metro Hospital,Golden Valley Hospital,88768,29733.32,0.63,18731.99,11001.33,06-11-2023,17-11-2023
+893327,25,Other,COVID-19,Infectious,Medicare,Metro Hospital,Riverside Hospital,94829,7300.07,0.92,6716.06,584.01,14-03-2023,17-03-2023
+118807,25,Female,Arthritis,Chronic,Medicare,Sunrise Health,MountainView Health,96201,7435.91,0.6,4461.55,2974.36,17-05-2021,18-05-2021
+646894,56,Female,Influenza,Infectious,Commercial,CityCare Specialists,Golden Valley Hospital,93161,26792.09,0.57,15271.49,11520.6,13-08-2020,19-08-2020
+435863,71,Male,Migraine,Neurological,Medicaid,BlueRiver Medical,General Hospital,99565,18337.93,0.85,15587.24,2750.69,28-01-2021,05-02-2021
+476440,87,Other,Pneumonia,Acute,Medicare,Evergreen Health,General Hospital,73385,5094.92,0.75,3821.19,1273.73,05-12-2022,11-12-2022
+275295,25,Other,Pneumonia,Acute,Commercial,Evergreen Health,City Medical Plaza,76833,29984.83,0.8,23987.86,5996.97,09-06-2020,20-06-2020
+848597,61,Female,Diabetes Type 2,Chronic,Commercial,Metro Hospital,Golden Valley Hospital,76461,15726.34,0.79,12423.81,3302.53,15-02-2023,24-02-2023
+242012,20,Other,Arthritis,Chronic,Employer Plan,CityCare Specialists,General Hospital,71067,21196.52,0.92,19500.8,1695.72,06-04-2022,16-04-2022
+867842,35,Male,Hypertension,Chronic,Employer Plan,Evergreen Health,St. Mary Medical Center,78458,19954.31,0.97,19355.68,598.63,02-12-2021,04-12-2021
+555651,34,Female,Migraine,Neurological,Employer Plan,ABC Health Clinic,Riverside Hospital,80833,11754,0.69,8110.26,3643.74,29-10-2020,04-11-2020
+448943,89,Female,Pneumonia,Acute,Employer Plan,Evergreen Health,General Hospital,80635,3375.25,0.84,2835.21,540.04,02-04-2022,03-04-2022
+112336,53,Male,Migraine,Neurological,Employer Plan,BlueRiver Medical,General Hospital,72686,16442.98,0.96,15785.26,657.72,22-11-2020,23-11-2020
+477721,41,Other,Influenza,Infectious,Employer Plan,ABC Health Clinic,MountainView Health,88147,17449.08,0.63,10992.92,6456.16,17-08-2021,27-08-2021
+413572,56,Male,Diabetes Type 2,Chronic,Commercial,CityCare Specialists,General Hospital,96145,7931.44,0.6,4758.86,3172.58,06-12-2021,19-12-2021
+700079,56,Male,Migraine,Neurological,Medicare,PrimeCare Hospital,MountainView Health,92139,25304.46,0.68,17207.03,8097.43,05-01-2023,10-01-2023
+860769,58,Female,Heart Failure,Critical,Medicaid,Evergreen Health,General Hospital,70614,26237.05,0.74,19415.42,6821.63,24-05-2022,31-05-2022
+988513,36,Female,Arthritis,Chronic,Medicare,Sunrise Health,City Medical Plaza,96172,9155.07,0.74,6774.75,2380.32,22-03-2023,23-03-2023
+334622,82,Other,Arthritis,Chronic,Medicaid,Metro Hospital,General Hospital,83644,15285.84,0.64,9782.94,5502.9,10-04-2021,19-04-2021
+631149,48,Other,Hypertension,Chronic,Commercial,Regional Health Center,City Medical Plaza,77065,8344.32,0.66,5507.25,2837.07,22-03-2023,24-03-2023
+236694,22,Female,Pneumonia,Acute,Medicare,Unity Clinic,City Medical Plaza,74086,13477.11,0.77,10377.37,3099.74,12-04-2021,13-04-2021
+704429,73,Male,Migraine,Neurological,Medicaid,BlueRiver Medical,MountainView Health,74508,12059.01,0.77,9285.44,2773.57,05-02-2024,08-02-2024
+147456,83,Other,Arthritis,Chronic,Employer Plan,CityCare Specialists,Golden Valley Hospital,80797,11181.24,0.85,9504.05,1677.19,30-12-2021,12-01-2022
+309272,41,Other,Asthma,Chronic,Commercial,Metro Hospital,Golden Valley Hospital,95570,9260.99,0.56,5186.15,4074.84,25-03-2023,06-04-2023
+538748,60,Male,Heart Failure,Critical,Medicare,PrimeCare Hospital,General Hospital,94406,11931.81,0.89,10619.31,1312.5,07-01-2022,17-01-2022
+494569,87,Other,Fracture - Arm,Injury,Commercial,Sunrise Health,City Medical Plaza,87188,2535.71,0.55,1394.64,1141.07,11-11-2022,20-11-2022
+988407,42,Male,COVID-19,Infectious,Employer Plan,ABC Health Clinic,Golden Valley Hospital,78444,20078.24,0.87,17468.07,2610.17,01-05-2023,13-05-2023
+239565,53,Female,Arthritis,Chronic,Commercial,CityCare Specialists,Riverside Hospital,75411,5444.33,0.82,4464.35,979.98,15-03-2023,24-03-2023
+564535,48,Other,Influenza,Infectious,Medicaid,CityCare Specialists,Golden Valley Hospital,86654,24132.84,0.74,17858.3,6274.54,08-09-2023,16-09-2023
+487902,32,Male,Pneumonia,Acute,Employer Plan,Unity Clinic,General Hospital,79777,13781.83,0.6,8269.1,5512.73,16-08-2021,20-08-2021
+324872,19,Female,COVID-19,Infectious,Commercial,Unity Clinic,Golden Valley Hospital,99481,22288.34,0.77,17162.02,5126.32,10-01-2021,11-01-2021
+135282,19,Male,Pneumonia,Acute,Medicare,Evergreen Health,City Medical Plaza,98759,3576.09,0.95,3397.29,178.8,28-11-2023,30-11-2023
+920509,41,Female,Pneumonia,Acute,Medicare,BlueRiver Medical,MountainView Health,84174,17782.99,0.79,14048.56,3734.43,25-10-2021,31-10-2021
+615609,83,Female,Hypertension,Chronic,Medicare,ABC Health Clinic,Riverside Hospital,88218,16234.68,0.75,12176.01,4058.67,11-08-2023,21-08-2023
+732731,46,Other,Asthma,Chronic,Employer Plan,ABC Health Clinic,General Hospital,70055,18886.24,0.68,12842.64,6043.6,28-04-2022,06-05-2022
+256390,88,Other,Influenza,Infectious,Medicaid,CityCare Specialists,Golden Valley Hospital,73632,24256.8,0.63,15281.78,8975.02,05-09-2022,09-09-2022
+216603,57,Male,Pneumonia,Acute,Medicare,Sunrise Health,Golden Valley Hospital,86529,24976.72,0.91,22728.82,2247.9,07-10-2021,10-10-2021
+246479,24,Male,Hypertension,Chronic,Commercial,PrimeCare Hospital,Riverside Hospital,96613,13688.57,0.79,10813.97,2874.6,30-12-2021,05-01-2022
+962781,89,Male,Hypertension,Chronic,Medicaid,Regional Health Center,MountainView Health,71105,1813.88,0.7,1269.72,544.16,06-02-2020,10-02-2020
+353516,35,Male,Heart Failure,Critical,Medicaid,Metro Hospital,St. Mary Medical Center,71490,24014.27,0.81,19451.56,4562.71,28-01-2021,29-01-2021
+639689,26,Other,Asthma,Chronic,Medicare,PrimeCare Hospital,General Hospital,79721,17399.56,0.65,11309.71,6089.85,30-12-2022,07-01-2023
+991798,42,Other,Influenza,Infectious,Medicaid,Evergreen Health,St. Mary Medical Center,73262,14758.35,0.53,7821.93,6936.42,12-08-2020,15-08-2020
+184667,87,Male,Diabetes Type 2,Chronic,Medicare,Regional Health Center,MountainView Health,97380,26616.98,0.66,17567.21,9049.77,17-11-2022,21-11-2022
+612445,68,Female,COVID-19,Infectious,Medicare,CityCare Specialists,St. Mary Medical Center,87513,5441.07,0.7,3808.75,1632.32,03-10-2020,04-10-2020
+126382,21,Male,Pneumonia,Acute,Medicaid,Evergreen Health,General Hospital,99217,24445.16,0.91,22245.1,2200.06,19-12-2020,26-12-2020
+978908,27,Female,Pneumonia,Acute,Medicare,Metro Hospital,City Medical Plaza,82879,8904.14,0.62,5520.57,3383.57,12-09-2021,23-09-2021
+574768,30,Female,COVID-19,Infectious,Employer Plan,ABC Health Clinic,City Medical Plaza,72170,23969.39,0.89,21332.76,2636.63,01-04-2021,11-04-2021
+311463,38,Male,Diabetes Type 2,Chronic,Medicare,Unity Clinic,Golden Valley Hospital,88320,20495.99,0.89,18241.43,2254.56,27-02-2023,04-03-2023
+214560,21,Female,COVID-19,Infectious,Medicare,ABC Health Clinic,General Hospital,79173,15243.42,0.75,11432.57,3810.85,12-02-2020,22-02-2020
+934397,39,Female,Diabetes Type 2,Chronic,Medicaid,CityCare Specialists,St. Mary Medical Center,97535,20768.65,0.69,14330.37,6438.28,07-03-2021,09-03-2021
+712236,32,Male,Heart Failure,Critical,Medicaid,PrimeCare Hospital,St. Mary Medical Center,96770,11949.17,0.8,9559.34,2389.83,20-09-2021,01-10-2021
+119731,37,Male,Diabetes Type 2,Chronic,Medicare,CityCare Specialists,St. Mary Medical Center,79569,3934.14,0.94,3698.09,236.05,12-02-2023,22-02-2023
+319894,85,Male,Arthritis,Chronic,Medicaid,Regional Health Center,St. Mary Medical Center,83934,28047.48,0.94,26364.63,1682.85,23-05-2021,26-05-2021
+590224,87,Other,Influenza,Infectious,Employer Plan,Evergreen Health,St. Mary Medical Center,74663,27406.66,0.96,26310.39,1096.27,20-12-2023,29-12-2023
+927363,40,Other,Influenza,Infectious,Medicaid,CityCare Specialists,General Hospital,78859,9023.3,0.71,6406.54,2616.76,09-03-2022,14-03-2022
+643135,71,Female,Heart Failure,Critical,Commercial,Sunrise Health,St. Mary Medical Center,83541,6946.51,0.87,6043.46,903.05,25-03-2023,30-03-2023
+716552,82,Male,COVID-19,Infectious,Commercial,Regional Health Center,Riverside Hospital,74477,28381.08,0.95,26962.03,1419.05,30-01-2021,12-02-2021
+901680,52,Female,Influenza,Infectious,Commercial,CityCare Specialists,MountainView Health,87677,15514.53,0.93,14428.51,1086.02,01-02-2023,11-02-2023
+210777,47,Male,Asthma,Chronic,Employer Plan,BlueRiver Medical,Riverside Hospital,94514,23310.21,0.67,15617.84,7692.37,15-08-2020,16-08-2020
+695597,26,Female,Migraine,Neurological,Employer Plan,PrimeCare Hospital,Riverside Hospital,79491,7637.74,0.64,4888.15,2749.59,15-12-2021,19-12-2021
+991907,44,Female,Migraine,Neurological,Employer Plan,Regional Health Center,MountainView Health,93363,17158.72,0.81,13898.56,3260.16,04-01-2023,13-01-2023
+411372,65,Female,Arthritis,Chronic,Medicaid,Evergreen Health,MountainView Health,89257,5169.5,0.95,4911.02,258.48,05-01-2023,18-01-2023
+617561,45,Male,Diabetes Type 2,Chronic,Medicaid,Unity Clinic,City Medical Plaza,77737,18400.01,0.76,13984.01,4416,23-10-2023,27-10-2023
+631598,50,Male,Heart Failure,Critical,Medicaid,CityCare Specialists,General Hospital,83535,27388.41,0.54,14789.74,12598.67,15-07-2023,19-07-2023
+983727,76,Male,Hypertension,Chronic,Commercial,Metro Hospital,Riverside Hospital,93797,12892.01,0.96,12376.33,515.68,29-04-2022,11-05-2022
+699830,62,Female,Fracture - Arm,Injury,Commercial,Regional Health Center,St. Mary Medical Center,78749,17946.33,0.81,14536.53,3409.8,05-09-2020,11-09-2020
+248395,46,Other,Influenza,Infectious,Employer Plan,Unity Clinic,General Hospital,84162,7032.67,0.76,5344.83,1687.84,11-07-2021,20-07-2021
+122369,74,Other,Migraine,Neurological,Commercial,Sunrise Health,Golden Valley Hospital,75295,25856.64,0.89,23012.41,2844.23,05-12-2021,11-12-2021
+224034,71,Female,Pneumonia,Acute,Medicaid,Sunrise Health,St. Mary Medical Center,76722,21614.13,0.89,19236.58,2377.55,06-09-2023,17-09-2023
+121274,22,Other,Asthma,Chronic,Medicare,BlueRiver Medical,City Medical Plaza,74366,16706.3,0.5,8353.15,8353.15,16-03-2020,20-03-2020
+917060,20,Male,COVID-19,Infectious,Medicare,Evergreen Health,St. Mary Medical Center,72689,21710.12,0.51,11072.16,10637.96,24-11-2023,03-12-2023
+951980,45,Other,Asthma,Chronic,Employer Plan,Regional Health Center,General Hospital,73621,22590.51,0.65,14683.83,7906.68,10-12-2022,19-12-2022
+166188,57,Other,Pneumonia,Acute,Medicare,BlueRiver Medical,MountainView Health,92258,20501.2,0.64,13120.77,7380.43,27-05-2020,05-06-2020
+584716,29,Female,Diabetes Type 2,Chronic,Medicaid,PrimeCare Hospital,MountainView Health,94843,18338.25,0.74,13570.31,4767.94,05-05-2020,07-05-2020
+232797,66,Female,Hypertension,Chronic,Medicare,Sunrise Health,Riverside Hospital,80055,25138.72,0.65,16340.17,8798.55,26-05-2020,02-06-2020
+481448,67,Male,Diabetes Type 2,Chronic,Medicaid,Metro Hospital,St. Mary Medical Center,88105,14613.34,0.51,7452.8,7160.54,31-07-2022,12-08-2022
+350319,31,Male,Heart Failure,Critical,Commercial,Evergreen Health,Riverside Hospital,98743,15680.63,0.57,8937.96,6742.67,20-12-2020,27-12-2020
+346256,89,Other,Pneumonia,Acute,Medicaid,PrimeCare Hospital,St. Mary Medical Center,92620,6704.82,0.78,5229.76,1475.06,05-01-2022,06-01-2022
+394768,81,Other,Diabetes Type 2,Chronic,Employer Plan,ABC Health Clinic,City Medical Plaza,80839,16438.41,0.64,10520.58,5917.83,16-02-2022,25-02-2022
+999482,77,Male,Pneumonia,Acute,Employer Plan,Metro Hospital,General Hospital,83662,11666.61,0.78,9099.96,2566.65,15-09-2022,17-09-2022
+861262,55,Other,Hypertension,Chronic,Medicaid,BlueRiver Medical,MountainView Health,95652,29949.67,0.98,29350.68,598.99,13-12-2022,17-12-2022
+514750,24,Female,Influenza,Infectious,Medicaid,Evergreen Health,MountainView Health,87565,7543.28,0.55,4148.8,3394.48,25-10-2020,30-10-2020
+220627,73,Other,Influenza,Infectious,Commercial,Evergreen Health,City Medical Plaza,98988,15518.23,0.88,13656.04,1862.19,29-12-2023,08-01-2024
+778105,50,Female,Hypertension,Chronic,Medicare,CityCare Specialists,Riverside Hospital,72513,9556.02,0.72,6880.33,2675.69,17-04-2022,24-04-2022
+302646,49,Female,COVID-19,Infectious,Commercial,Sunrise Health,City Medical Plaza,71800,29547.39,0.85,25115.28,4432.11,28-11-2021,01-12-2021
+946626,38,Other,Pneumonia,Acute,Medicaid,Sunrise Health,Riverside Hospital,98535,26899.22,0.74,19905.42,6993.8,07-09-2022,08-09-2022
+287167,69,Other,Hypertension,Chronic,Employer Plan,PrimeCare Hospital,Golden Valley Hospital,86865,9204.93,0.89,8192.39,1012.54,16-04-2020,22-04-2020
+618728,55,Female,Diabetes Type 2,Chronic,Employer Plan,Evergreen Health,Riverside Hospital,75192,18914.17,0.8,15131.34,3782.83,09-05-2022,19-05-2022
+380407,30,Other,Asthma,Chronic,Commercial,PrimeCare Hospital,Riverside Hospital,96745,4259.33,0.73,3109.31,1150.02,25-03-2023,02-04-2023
+292593,46,Male,Pneumonia,Acute,Employer Plan,Regional Health Center,St. Mary Medical Center,81672,27783.36,0.78,21671.02,6112.34,17-01-2023,18-01-2023
+653669,43,Other,Influenza,Infectious,Medicaid,Unity Clinic,General Hospital,91692,24578.46,0.93,22857.97,1720.49,19-03-2022,24-03-2022
+288210,32,Female,Diabetes Type 2,Chronic,Commercial,BlueRiver Medical,St. Mary Medical Center,82646,16274.39,0.55,8950.91,7323.48,07-04-2023,10-04-2023
+444950,88,Other,Pneumonia,Acute,Medicaid,Evergreen Health,St. Mary Medical Center,99718,9115.48,0.74,6745.46,2370.02,03-07-2021,12-07-2021
+458243,44,Other,Migraine,Neurological,Medicare,Metro Hospital,MountainView Health,82614,27499.25,0.95,26124.29,1374.96,02-11-2022,13-11-2022
+231436,41,Male,Influenza,Infectious,Medicaid,Regional Health Center,General Hospital,79261,11280.45,0.77,8685.95,2594.5,03-05-2020,13-05-2020
+859112,76,Other,Influenza,Infectious,Commercial,Unity Clinic,Golden Valley Hospital,95017,22979.89,0.96,22060.69,919.2,11-04-2022,18-04-2022
+238595,41,Other,Migraine,Neurological,Medicaid,Evergreen Health,St. Mary Medical Center,87472,24653.79,0.91,22434.95,2218.84,16-01-2022,18-01-2022
+994829,28,Female,Hypertension,Chronic,Employer Plan,BlueRiver Medical,St. Mary Medical Center,94815,27861.84,0.88,24518.42,3343.42,03-04-2021,09-04-2021
+555040,87,Male,Arthritis,Chronic,Employer Plan,Unity Clinic,City Medical Plaza,77002,12507.74,0.73,9130.65,3377.09,25-12-2023,04-01-2024
+767972,75,Female,Fracture - Arm,Injury,Medicaid,CityCare Specialists,General Hospital,85261,13800.15,0.87,12006.13,1794.02,30-07-2021,31-07-2021
+100037,42,Female,Hypertension,Chronic,Medicare,Sunrise Health,Golden Valley Hospital,99240,17029.13,0.64,10898.64,6130.49,25-12-2023,02-01-2024
+868576,29,Male,Heart Failure,Critical,Employer Plan,Unity Clinic,General Hospital,94000,15544.27,0.58,9015.68,6528.59,15-01-2022,18-01-2022
+413392,36,Other,Diabetes Type 2,Chronic,Medicaid,Sunrise Health,General Hospital,84267,9848.37,0.68,6696.89,3151.48,23-04-2022,05-05-2022
+758323,67,Other,Influenza,Infectious,Medicaid,Regional Health Center,General Hospital,77345,5816.54,0.71,4129.74,1686.8,20-02-2021,03-03-2021
+247702,37,Female,Heart Failure,Critical,Medicare,Unity Clinic,Golden Valley Hospital,83025,14117.97,0.96,13553.25,564.72,12-05-2023,13-05-2023
+228381,78,Other,Asthma,Chronic,Commercial,Unity Clinic,St. Mary Medical Center,72108,22537.3,0.59,13297.01,9240.29,24-03-2022,02-04-2022
+755354,70,Male,Migraine,Neurological,Medicaid,Evergreen Health,MountainView Health,97610,7059.06,0.96,6776.7,282.36,21-04-2020,25-04-2020
+259011,71,Female,Fracture - Arm,Injury,Commercial,Metro Hospital,City Medical Plaza,85690,9131.57,0.72,6574.73,2556.84,30-11-2023,05-12-2023
+527562,44,Male,Hypertension,Chronic,Commercial,Regional Health Center,City Medical Plaza,97545,3665.81,0.83,3042.62,623.19,21-03-2020,03-04-2020
+812345,39,Other,COVID-19,Infectious,Commercial,BlueRiver Medical,MountainView Health,88880,20160.97,0.69,13911.07,6249.9,07-09-2023,08-09-2023
+789317,78,Male,Diabetes Type 2,Chronic,Medicaid,BlueRiver Medical,Riverside Hospital,72685,18718.96,0.56,10482.62,8236.34,04-02-2024,07-02-2024
+948883,30,Other,Fracture - Arm,Injury,Medicare,ABC Health Clinic,City Medical Plaza,76709,6481.42,0.97,6286.98,194.44,21-08-2021,23-08-2021
+877393,48,Male,Hypertension,Chronic,Medicaid,Evergreen Health,City Medical Plaza,82975,24592.39,0.76,18690.22,5902.17,08-02-2024,13-02-2024
+463114,36,Male,COVID-19,Infectious,Medicaid,Metro Hospital,General Hospital,83873,19340.54,0.57,11024.11,8316.43,19-07-2021,25-07-2021
+229789,86,Other,Pneumonia,Acute,Commercial,Regional Health Center,Riverside Hospital,83113,10982.92,0.53,5820.95,5161.97,23-07-2022,02-08-2022
+892515,72,Male,Hypertension,Chronic,Medicare,ABC Health Clinic,City Medical Plaza,94627,16987.07,0.65,11041.6,5945.47,26-10-2020,05-11-2020
+285151,86,Female,Migraine,Neurological,Employer Plan,ABC Health Clinic,City Medical Plaza,79475,16523.73,0.85,14045.17,2478.56,08-08-2021,18-08-2021
+155479,40,Female,Hypertension,Chronic,Commercial,PrimeCare Hospital,St. Mary Medical Center,99150,24800.61,0.9,22320.55,2480.06,26-12-2022,31-12-2022
+411896,50,Male,COVID-19,Infectious,Medicaid,Regional Health Center,General Hospital,75901,22977.89,0.96,22058.77,919.12,24-06-2020,27-06-2020
+470134,40,Male,Migraine,Neurological,Commercial,PrimeCare Hospital,St. Mary Medical Center,98712,14571.52,0.82,11948.65,2622.87,14-07-2023,23-07-2023
+638606,77,Other,Hypertension,Chronic,Employer Plan,Unity Clinic,Riverside Hospital,90141,15164.47,0.68,10311.84,4852.63,09-06-2022,21-06-2022
+759599,29,Other,Asthma,Chronic,Medicaid,Evergreen Health,General Hospital,81936,24810.27,0.52,12901.34,11908.93,20-03-2020,29-03-2020
+312079,63,Male,Pneumonia,Acute,Medicaid,BlueRiver Medical,St. Mary Medical Center,75672,26339.23,0.71,18700.85,7638.38,17-07-2021,19-07-2021
+685136,45,Other,Fracture - Arm,Injury,Medicare,Metro Hospital,St. Mary Medical Center,94544,24674.77,0.96,23687.78,986.99,26-07-2021,07-08-2021
+528734,78,Other,Diabetes Type 2,Chronic,Employer Plan,BlueRiver Medical,City Medical Plaza,87158,15853.17,0.92,14584.92,1268.25,31-03-2021,04-04-2021
+112419,51,Male,Hypertension,Chronic,Medicare,PrimeCare Hospital,Golden Valley Hospital,79697,7919.34,0.83,6573.05,1346.29,28-11-2022,04-12-2022
+909471,50,Male,Heart Failure,Critical,Employer Plan,PrimeCare Hospital,City Medical Plaza,73574,28905.66,0.87,25147.92,3757.74,10-01-2023,14-01-2023
+942793,29,Male,COVID-19,Infectious,Medicare,ABC Health Clinic,MountainView Health,93666,22053.04,0.82,18083.49,3969.55,11-06-2021,19-06-2021
+882065,20,Female,Hypertension,Chronic,Medicaid,BlueRiver Medical,General Hospital,83964,13683.91,0.63,8620.86,5063.05,10-11-2022,13-11-2022
+940597,50,Male,Fracture - Arm,Injury,Employer Plan,Regional Health Center,St. Mary Medical Center,81236,12719.93,0.59,7504.76,5215.17,05-07-2023,08-07-2023
+511373,37,Female,Influenza,Infectious,Medicaid,Unity Clinic,General Hospital,95467,8295.17,0.95,7880.41,414.76,12-01-2023,15-01-2023
+274166,68,Female,COVID-19,Infectious,Employer Plan,Regional Health Center,General Hospital,87118,8774.12,0.82,7194.78,1579.34,14-02-2021,27-02-2021
+677539,54,Other,Hypertension,Chronic,Commercial,Evergreen Health,City Medical Plaza,83579,11247.65,0.9,10122.89,1124.76,14-06-2020,26-06-2020
+528373,36,Female,Hypertension,Chronic,Medicaid,Regional Health Center,Riverside Hospital,82123,21860.05,0.94,20548.45,1311.6,30-12-2023,31-12-2023
+737423,36,Male,Arthritis,Chronic,Medicare,Sunrise Health,General Hospital,75914,16734.8,0.82,13722.54,3012.26,28-10-2022,30-10-2022
+802076,50,Male,Arthritis,Chronic,Medicare,Evergreen Health,City Medical Plaza,95018,25729.9,0.98,25215.3,514.6,12-04-2022,15-04-2022
+674901,78,Other,COVID-19,Infectious,Medicare,PrimeCare Hospital,Riverside Hospital,73409,23915.99,0.65,15545.39,8370.6,14-09-2021,16-09-2021
+342556,74,Other,Arthritis,Chronic,Medicare,Evergreen Health,Golden Valley Hospital,83034,9930.95,0.93,9235.78,695.17,29-03-2023,04-04-2023
+796314,33,Male,Hypertension,Chronic,Medicare,Sunrise Health,City Medical Plaza,82103,20777.1,0.54,11219.63,9557.47,02-02-2020,11-02-2020
+709493,67,Male,Influenza,Infectious,Medicaid,CityCare Specialists,City Medical Plaza,92566,17941.17,0.52,9329.41,8611.76,15-12-2022,17-12-2022
+693453,84,Male,Asthma,Chronic,Commercial,Evergreen Health,Golden Valley Hospital,92257,19264.46,0.53,10210.16,9054.3,07-03-2023,16-03-2023
+832943,58,Female,Fracture - Arm,Injury,Employer Plan,PrimeCare Hospital,City Medical Plaza,83055,19745.53,0.56,11057.5,8688.03,14-07-2021,23-07-2021
+691795,19,Female,Migraine,Neurological,Commercial,Unity Clinic,Riverside Hospital,71868,24639.41,0.89,21929.07,2710.34,16-09-2020,21-09-2020
+941676,58,Other,Fracture - Arm,Injury,Commercial,BlueRiver Medical,City Medical Plaza,76212,15760.21,0.67,10559.34,5200.87,29-03-2020,01-04-2020
+866164,83,Female,Migraine,Neurological,Commercial,BlueRiver Medical,Riverside Hospital,70209,16252.45,0.78,12676.91,3575.54,18-02-2021,19-02-2021
+490300,22,Male,Hypertension,Chronic,Commercial,BlueRiver Medical,Riverside Hospital,99250,16601.46,0.8,13281.17,3320.29,09-06-2023,12-06-2023
+751100,47,Other,Diabetes Type 2,Chronic,Commercial,Metro Hospital,MountainView Health,82773,21991.24,0.77,16933.25,5057.99,07-06-2022,10-06-2022
+726946,53,Other,Hypertension,Chronic,Medicare,ABC Health Clinic,City Medical Plaza,90569,27080.52,0.63,17060.73,10019.79,05-01-2023,06-01-2023
+665764,31,Other,Pneumonia,Acute,Commercial,Unity Clinic,MountainView Health,87885,16815.31,0.9,15133.78,1681.53,12-12-2022,25-12-2022
+327021,77,Female,Arthritis,Chronic,Medicaid,PrimeCare Hospital,Riverside Hospital,99765,27785.77,0.7,19450.04,8335.73,22-08-2023,03-09-2023
+825010,18,Female,Diabetes Type 2,Chronic,Employer Plan,Unity Clinic,Riverside Hospital,72768,28109.85,0.76,21363.49,6746.36,14-02-2022,20-02-2022
+155107,89,Male,COVID-19,Infectious,Medicaid,Unity Clinic,City Medical Plaza,89924,16218.66,0.85,13785.86,2432.8,31-12-2022,08-01-2023
+638411,73,Female,Heart Failure,Critical,Commercial,CityCare Specialists,General Hospital,71473,6381.29,0.86,5487.91,893.38,20-03-2022,21-03-2022
+985155,26,Male,Arthritis,Chronic,Medicare,Unity Clinic,General Hospital,84780,18676.09,0.77,14380.59,4295.5,14-08-2021,22-08-2021
+199596,60,Male,Influenza,Infectious,Commercial,Metro Hospital,St. Mary Medical Center,76431,23956.03,0.9,21560.43,2395.6,29-10-2020,05-11-2020
+133205,46,Female,Hypertension,Chronic,Medicare,PrimeCare Hospital,St. Mary Medical Center,75794,2233.66,0.66,1474.22,759.44,05-11-2021,18-11-2021
+752428,27,Female,Arthritis,Chronic,Employer Plan,Regional Health Center,General Hospital,89115,1870.79,0.95,1777.25,93.54,19-05-2023,25-05-2023
+330796,38,Male,Asthma,Chronic,Medicare,Metro Hospital,MountainView Health,89689,20089.52,0.85,17076.09,3013.43,08-01-2022,20-01-2022
+468709,87,Other,Influenza,Infectious,Employer Plan,Evergreen Health,Golden Valley Hospital,86864,2577.87,0.56,1443.61,1134.26,19-12-2023,29-12-2023
+233964,64,Male,Migraine,Neurological,Commercial,CityCare Specialists,MountainView Health,86538,2095.92,0.61,1278.51,817.41,26-11-2023,27-11-2023
+227192,73,Other,Migraine,Neurological,Commercial,CityCare Specialists,General Hospital,99116,3505.49,0.8,2804.39,701.1,13-06-2021,14-06-2021
+869606,71,Male,Asthma,Chronic,Medicaid,ABC Health Clinic,Riverside Hospital,74412,13950.51,0.69,9625.85,4324.66,26-12-2023,30-12-2023
+682769,21,Female,Arthritis,Chronic,Medicare,Metro Hospital,Riverside Hospital,76884,27316.73,0.9,24585.06,2731.67,16-01-2021,25-01-2021
+975837,52,Female,Asthma,Chronic,Commercial,CityCare Specialists,City Medical Plaza,73967,8011.44,0.92,7370.52,640.92,25-01-2021,07-02-2021
+951112,59,Male,Fracture - Arm,Injury,Commercial,BlueRiver Medical,Riverside Hospital,81498,5354.37,0.77,4122.86,1231.51,24-04-2022,02-05-2022
+704008,73,Male,Arthritis,Chronic,Employer Plan,CityCare Specialists,St. Mary Medical Center,95411,11698.47,0.5,5849.23,5849.24,11-07-2023,22-07-2023
+677158,58,Other,Hypertension,Chronic,Medicaid,CityCare Specialists,MountainView Health,93555,12576.02,0.7,8803.21,3772.81,15-11-2022,26-11-2022
+408697,34,Other,Arthritis,Chronic,Commercial,CityCare Specialists,City Medical Plaza,74975,17779.6,0.9,16001.64,1777.96,28-01-2022,31-01-2022
+648723,62,Female,Asthma,Chronic,Employer Plan,Evergreen Health,City Medical Plaza,97493,15477.95,0.62,9596.33,5881.62,01-04-2023,11-04-2023
+491776,68,Other,Fracture - Arm,Injury,Commercial,Metro Hospital,Riverside Hospital,88268,5215.02,0.88,4589.22,625.8,26-08-2021,06-09-2021
+398021,28,Other,Hypertension,Chronic,Commercial,Metro Hospital,General Hospital,83407,23415.94,0.71,16625.32,6790.62,04-03-2021,15-03-2021
+192508,88,Other,Arthritis,Chronic,Employer Plan,Evergreen Health,Riverside Hospital,70080,8928.99,0.91,8125.38,803.61,26-01-2022,03-02-2022
+668800,31,Male,Fracture - Arm,Injury,Medicare,BlueRiver Medical,Golden Valley Hospital,70672,4973.84,0.74,3680.64,1293.2,29-01-2020,11-02-2020
+993893,41,Other,COVID-19,Infectious,Medicaid,Sunrise Health,General Hospital,81696,5635.51,0.93,5241.02,394.49,15-11-2021,27-11-2021
+575629,72,Other,Diabetes Type 2,Chronic,Employer Plan,ABC Health Clinic,St. Mary Medical Center,77630,21258.98,0.88,18707.9,2551.08,11-09-2020,13-09-2020
+300798,88,Female,COVID-19,Infectious,Medicaid,Evergreen Health,MountainView Health,87139,29484.3,0.93,27420.4,2063.9,12-05-2020,19-05-2020
+522397,47,Male,COVID-19,Infectious,Commercial,PrimeCare Hospital,Riverside Hospital,99405,19655.86,0.58,11400.4,8255.46,19-02-2023,02-03-2023
+370086,66,Male,Influenza,Infectious,Medicare,Sunrise Health,St. Mary Medical Center,97212,21711.65,0.6,13026.99,8684.66,08-08-2020,11-08-2020
+360186,44,Female,Asthma,Chronic,Medicare,Unity Clinic,City Medical Plaza,87502,20161.11,0.61,12298.28,7862.83,16-12-2021,27-12-2021
+717985,67,Male,Diabetes Type 2,Chronic,Medicaid,ABC Health Clinic,Riverside Hospital,97843,9833.14,0.84,8259.84,1573.3,26-10-2021,28-10-2021
+216585,28,Male,Hypertension,Chronic,Medicaid,BlueRiver Medical,General Hospital,90758,11866.18,0.86,10204.91,1661.27,01-10-2022,03-10-2022
+746231,48,Other,Diabetes Type 2,Chronic,Medicare,Regional Health Center,General Hospital,90108,12866.41,0.75,9649.81,3216.6,07-05-2020,14-05-2020
+940903,83,Female,Arthritis,Chronic,Medicaid,PrimeCare Hospital,St. Mary Medical Center,93241,8620.83,0.66,5689.75,2931.08,27-08-2022,09-09-2022
+429064,69,Other,Diabetes Type 2,Chronic,Medicare,Regional Health Center,City Medical Plaza,77238,24473.76,0.67,16397.42,8076.34,10-04-2021,13-04-2021
+212105,80,Male,Asthma,Chronic,Medicaid,BlueRiver Medical,Golden Valley Hospital,83833,16704.14,0.53,8853.19,7850.95,24-03-2021,03-04-2021
+987921,43,Other,Asthma,Chronic,Employer Plan,Metro Hospital,Golden Valley Hospital,98900,21664.4,0.51,11048.84,10615.56,19-01-2024,31-01-2024
+429205,42,Male,Hypertension,Chronic,Commercial,Unity Clinic,MountainView Health,90612,15198.47,0.76,11550.84,3647.63,09-09-2023,13-09-2023
+589987,64,Other,Migraine,Neurological,Medicare,BlueRiver Medical,General Hospital,91057,15212.08,0.66,10039.97,5172.11,24-05-2020,28-05-2020
+563609,51,Male,COVID-19,Infectious,Medicaid,Evergreen Health,General Hospital,90437,17322.05,0.85,14723.74,2598.31,21-02-2022,03-03-2022
+214360,34,Male,Diabetes Type 2,Chronic,Employer Plan,Sunrise Health,MountainView Health,98207,16618.49,0.7,11632.94,4985.55,11-09-2023,21-09-2023
+989589,39,Male,Pneumonia,Acute,Medicaid,Unity Clinic,St. Mary Medical Center,76474,10625.31,0.94,9987.79,637.52,14-03-2020,27-03-2020
+902491,80,Male,Pneumonia,Acute,Commercial,Sunrise Health,Riverside Hospital,74931,27453.33,0.96,26355.2,1098.13,08-11-2020,18-11-2020
+993155,83,Female,Migraine,Neurological,Medicaid,Unity Clinic,Riverside Hospital,76185,20405.83,0.7,14284.08,6121.75,19-01-2020,21-01-2020
+726854,36,Female,Influenza,Infectious,Employer Plan,CityCare Specialists,City Medical Plaza,91076,4861.25,0.81,3937.61,923.64,18-09-2022,01-10-2022
+520474,78,Other,Diabetes Type 2,Chronic,Medicare,CityCare Specialists,Golden Valley Hospital,83828,15045.97,0.88,13240.45,1805.52,07-12-2020,12-12-2020
+229466,85,Male,Influenza,Infectious,Medicare,Unity Clinic,Riverside Hospital,91711,4927.72,0.84,4139.28,788.44,02-11-2020,12-11-2020
+784677,79,Male,Migraine,Neurological,Medicaid,Unity Clinic,Riverside Hospital,83751,23765.82,0.68,16160.76,7605.06,05-07-2020,08-07-2020
+450129,21,Other,Heart Failure,Critical,Commercial,Regional Health Center,Riverside Hospital,80057,26292.99,0.56,14724.07,11568.92,21-10-2023,01-11-2023
+694100,36,Female,Influenza,Infectious,Commercial,Metro Hospital,General Hospital,92096,12224.89,0.67,8190.68,4034.21,25-11-2021,28-11-2021
+164829,76,Male,Pneumonia,Acute,Employer Plan,CityCare Specialists,St. Mary Medical Center,80599,8348.9,0.82,6846.1,1502.8,10-08-2022,16-08-2022
+821927,68,Other,Migraine,Neurological,Employer Plan,Sunrise Health,General Hospital,86618,3466.22,0.98,3396.9,69.32,03-04-2022,15-04-2022
+521280,88,Male,COVID-19,Infectious,Employer Plan,Unity Clinic,General Hospital,95905,11047.74,0.6,6628.64,4419.1,22-01-2022,28-01-2022
+245871,89,Male,Heart Failure,Critical,Employer Plan,Unity Clinic,Riverside Hospital,83858,28030.6,0.55,15416.83,12613.77,20-07-2020,25-07-2020
+281593,81,Male,Influenza,Infectious,Medicaid,Evergreen Health,St. Mary Medical Center,98287,6459.3,0.87,5619.59,839.71,16-02-2021,28-02-2021
+783019,34,Female,Asthma,Chronic,Medicaid,PrimeCare Hospital,St. Mary Medical Center,83628,26331.39,0.59,15535.52,10795.87,13-02-2022,26-02-2022
+489666,32,Male,COVID-19,Infectious,Commercial,Sunrise Health,St. Mary Medical Center,78250,5085.37,0.78,3966.59,1118.78,24-01-2021,28-01-2021
+584046,38,Other,Influenza,Infectious,Medicare,PrimeCare Hospital,Riverside Hospital,99693,24092.05,0.8,19273.64,4818.41,24-02-2022,27-02-2022
+910993,73,Female,Arthritis,Chronic,Commercial,PrimeCare Hospital,Riverside Hospital,81556,20532.48,0.52,10676.89,9855.59,13-03-2022,17-03-2022
+435830,45,Female,Diabetes Type 2,Chronic,Medicaid,Regional Health Center,MountainView Health,92432,29888.53,0.55,16438.69,13449.84,29-09-2020,07-10-2020
+716070,74,Male,Heart Failure,Critical,Medicaid,ABC Health Clinic,St. Mary Medical Center,98838,18736.85,0.73,13677.9,5058.95,10-06-2023,17-06-2023
+916309,88,Male,COVID-19,Infectious,Medicare,Sunrise Health,MountainView Health,95263,6161.05,0.52,3203.75,2957.3,23-02-2022,04-03-2022
+767372,51,Male,Heart Failure,Critical,Medicare,Evergreen Health,Riverside Hospital,77910,24595.39,0.88,21643.94,2951.45,16-12-2021,29-12-2021
+682393,59,Male,Migraine,Neurological,Medicaid,Regional Health Center,St. Mary Medical Center,95251,3521.11,0.59,2077.45,1443.66,19-05-2020,29-05-2020
+180738,57,Female,Diabetes Type 2,Chronic,Medicaid,Sunrise Health,City Medical Plaza,96470,15163.35,0.75,11372.51,3790.84,07-12-2020,12-12-2020
+301675,18,Female,Arthritis,Chronic,Commercial,ABC Health Clinic,Riverside Hospital,76850,19069.14,0.97,18497.07,572.07,14-10-2021,24-10-2021
+620337,84,Female,Fracture - Arm,Injury,Commercial,Evergreen Health,General Hospital,74570,6398.4,0.53,3391.15,3007.25,30-03-2022,06-04-2022
+447608,41,Male,Migraine,Neurological,Medicaid,PrimeCare Hospital,Riverside Hospital,98084,5089.31,0.93,4733.06,356.25,09-02-2020,16-02-2020
+765582,79,Female,Arthritis,Chronic,Medicare,PrimeCare Hospital,City Medical Plaza,88601,23895.54,0.72,17204.79,6690.75,06-08-2021,14-08-2021
+288874,34,Female,Migraine,Neurological,Medicare,Evergreen Health,St. Mary Medical Center,76516,26574.6,0.52,13818.79,12755.81,17-04-2020,25-04-2020
+469478,51,Male,Pneumonia,Acute,Medicare,Metro Hospital,MountainView Health,85487,10541.77,0.64,6746.73,3795.04,29-06-2020,12-07-2020
+838757,76,Male,Influenza,Infectious,Employer Plan,BlueRiver Medical,General Hospital,93475,1794.85,0.8,1435.88,358.97,18-06-2022,20-06-2022
+821243,55,Male,Hypertension,Chronic,Medicaid,Evergreen Health,Golden Valley Hospital,98082,5955.45,0.71,4228.37,1727.08,08-03-2022,17-03-2022
+684398,47,Female,COVID-19,Infectious,Commercial,BlueRiver Medical,Riverside Hospital,88854,13568.01,0.75,10176.01,3392,04-12-2022,12-12-2022
+376850,29,Male,Arthritis,Chronic,Employer Plan,Sunrise Health,MountainView Health,74274,28753.01,0.87,25015.12,3737.89,06-10-2020,09-10-2020
+789746,26,Other,Pneumonia,Acute,Medicaid,BlueRiver Medical,Riverside Hospital,96844,25963.64,0.96,24925.09,1038.55,31-12-2023,06-01-2024
+695113,62,Male,COVID-19,Infectious,Medicaid,Evergreen Health,City Medical Plaza,95075,25747.19,0.7,18023.03,7724.16,13-06-2021,20-06-2021
+614539,55,Other,Hypertension,Chronic,Employer Plan,ABC Health Clinic,MountainView Health,99486,23513.71,0.87,20456.93,3056.78,24-08-2021,28-08-2021
+224926,25,Other,Influenza,Infectious,Commercial,PrimeCare Hospital,MountainView Health,83965,19466.34,0.94,18298.36,1167.98,17-01-2024,28-01-2024
+588633,57,Other,Migraine,Neurological,Medicare,Metro Hospital,City Medical Plaza,73838,21813.48,0.52,11343.01,10470.47,03-12-2023,11-12-2023
+667327,45,Female,Asthma,Chronic,Employer Plan,Regional Health Center,Golden Valley Hospital,75914,7394.86,0.81,5989.84,1405.02,03-03-2022,13-03-2022
+287435,63,Female,Heart Failure,Critical,Employer Plan,Metro Hospital,St. Mary Medical Center,76278,27049.48,0.81,21910.08,5139.4,20-06-2023,27-06-2023
+279340,73,Other,Influenza,Infectious,Medicaid,ABC Health Clinic,General Hospital,80895,10904.28,0.96,10468.11,436.17,05-07-2021,06-07-2021
+422038,31,Other,Migraine,Neurological,Medicaid,PrimeCare Hospital,Riverside Hospital,95774,9905.54,0.51,5051.83,4853.71,19-09-2022,01-10-2022
+953009,33,Male,Heart Failure,Critical,Commercial,Unity Clinic,General Hospital,73065,20129.21,0.96,19324.04,805.17,14-04-2021,27-04-2021
+657132,26,Other,Pneumonia,Acute,Medicare,PrimeCare Hospital,City Medical Plaza,78680,8100.12,0.59,4779.07,3321.05,06-01-2021,19-01-2021
+221831,57,Male,Hypertension,Chronic,Employer Plan,CityCare Specialists,MountainView Health,76487,17335.09,0.58,10054.35,7280.74,15-09-2020,27-09-2020
+845778,71,Female,Arthritis,Chronic,Medicare,Unity Clinic,City Medical Plaza,70784,18491.21,0.94,17381.74,1109.47,22-02-2023,23-02-2023
+280786,67,Other,Heart Failure,Critical,Commercial,Evergreen Health,City Medical Plaza,85595,8687.77,0.96,8340.26,347.51,29-04-2022,02-05-2022
+277043,32,Male,Asthma,Chronic,Employer Plan,Evergreen Health,City Medical Plaza,97172,13652.57,0.76,10375.95,3276.62,28-10-2022,06-11-2022
+573050,21,Male,Migraine,Neurological,Employer Plan,Sunrise Health,City Medical Plaza,76050,17375.86,0.88,15290.76,2085.1,23-04-2023,03-05-2023
+809038,78,Female,Pneumonia,Acute,Medicare,Regional Health Center,St. Mary Medical Center,80315,20358.26,0.89,18118.85,2239.41,30-04-2021,08-05-2021
+555911,24,Female,Pneumonia,Acute,Commercial,Evergreen Health,MountainView Health,75340,4227.17,0.94,3973.54,253.63,28-12-2020,29-12-2020
+566196,32,Female,COVID-19,Infectious,Employer Plan,Regional Health Center,Riverside Hospital,83782,25104.06,0.58,14560.35,10543.71,14-11-2020,23-11-2020
+702292,74,Other,Fracture - Arm,Injury,Medicare,Regional Health Center,City Medical Plaza,97268,14272.58,0.63,8991.73,5280.85,01-12-2020,10-12-2020
+396437,21,Other,Diabetes Type 2,Chronic,Medicaid,ABC Health Clinic,St. Mary Medical Center,96309,20811.92,0.58,12070.91,8741.01,28-03-2021,06-04-2021
+184179,45,Female,Diabetes Type 2,Chronic,Commercial,ABC Health Clinic,General Hospital,89043,7813.52,0.72,5625.73,2187.79,03-03-2020,10-03-2020
+272438,51,Male,Influenza,Infectious,Medicare,ABC Health Clinic,Riverside Hospital,93963,1771.86,0.69,1222.58,549.28,04-12-2022,15-12-2022
+633292,54,Male,Influenza,Infectious,Medicare,Unity Clinic,General Hospital,82674,1538.63,0.74,1138.59,400.04,19-11-2022,29-11-2022
+110567,81,Female,Influenza,Infectious,Employer Plan,Sunrise Health,St. Mary Medical Center,78851,12034.83,0.66,7942.99,4091.84,02-10-2021,04-10-2021
+679897,36,Female,Heart Failure,Critical,Medicaid,PrimeCare Hospital,City Medical Plaza,82672,25568.86,0.78,19943.71,5625.15,09-02-2022,12-02-2022
+951601,69,Female,Influenza,Infectious,Employer Plan,Evergreen Health,Riverside Hospital,78437,20715.26,0.61,12636.31,8078.95,20-02-2021,26-02-2021
+400159,52,Other,Asthma,Chronic,Commercial,BlueRiver Medical,City Medical Plaza,77391,9350.23,0.63,5890.64,3459.59,04-01-2024,05-01-2024
+845569,54,Other,Hypertension,Chronic,Employer Plan,PrimeCare Hospital,Riverside Hospital,71906,28880.75,0.74,21371.76,7508.99,03-06-2023,05-06-2023
+495032,21,Other,COVID-19,Infectious,Employer Plan,CityCare Specialists,Riverside Hospital,81730,13244.67,0.52,6887.23,6357.44,30-08-2020,07-09-2020
+458349,27,Other,Arthritis,Chronic,Medicare,Evergreen Health,St. Mary Medical Center,72093,3312.86,0.61,2020.84,1292.02,23-06-2020,27-06-2020
+117718,83,Other,Fracture - Arm,Injury,Commercial,ABC Health Clinic,MountainView Health,80064,16711.17,0.57,9525.37,7185.8,20-01-2020,02-02-2020
+321516,60,Other,Hypertension,Chronic,Medicaid,CityCare Specialists,MountainView Health,88898,10496.13,0.54,5667.91,4828.22,10-04-2020,17-04-2020
+401857,61,Female,Heart Failure,Critical,Medicare,CityCare Specialists,Riverside Hospital,87563,16289.71,0.79,12868.87,3420.84,30-03-2021,11-04-2021
+876903,27,Female,Arthritis,Chronic,Medicare,Metro Hospital,Golden Valley Hospital,70107,15876,0.86,13653.36,2222.64,30-11-2020,06-12-2020
+827773,57,Male,Diabetes Type 2,Chronic,Employer Plan,CityCare Specialists,St. Mary Medical Center,70559,13657.87,0.93,12701.82,956.05,25-08-2022,01-09-2022
+277696,61,Male,Migraine,Neurological,Employer Plan,Sunrise Health,MountainView Health,83136,20957.73,0.84,17604.49,3353.24,25-05-2022,26-05-2022
+119659,61,Other,Influenza,Infectious,Medicare,Regional Health Center,St. Mary Medical Center,73259,13603.35,0.57,7753.91,5849.44,08-08-2021,16-08-2021
+383071,37,Male,Fracture - Arm,Injury,Medicaid,CityCare Specialists,General Hospital,96666,4060.03,0.78,3166.82,893.21,14-09-2022,17-09-2022
+348342,63,Female,Diabetes Type 2,Chronic,Medicare,ABC Health Clinic,MountainView Health,76975,19097.69,0.87,16614.99,2482.7,20-11-2020,23-11-2020
+823704,64,Other,Diabetes Type 2,Chronic,Employer Plan,PrimeCare Hospital,Golden Valley Hospital,92480,6446.81,0.96,6188.94,257.87,21-01-2024,24-01-2024
+212035,80,Male,Arthritis,Chronic,Employer Plan,Evergreen Health,Golden Valley Hospital,87940,24471.33,0.62,15172.22,9299.11,10-07-2022,21-07-2022
+762165,38,Male,Migraine,Neurological,Medicare,PrimeCare Hospital,Golden Valley Hospital,89336,6349.35,0.62,3936.6,2412.75,01-05-2021,12-05-2021
+461013,29,Other,Arthritis,Chronic,Medicare,PrimeCare Hospital,General Hospital,85021,23526.91,0.66,15527.76,7999.15,23-05-2022,27-05-2022
+896787,43,Male,Asthma,Chronic,Commercial,BlueRiver Medical,City Medical Plaza,80857,22368.78,0.54,12079.14,10289.64,13-05-2022,23-05-2022
+358308,33,Male,Arthritis,Chronic,Medicaid,Regional Health Center,MountainView Health,99303,5403.55,0.74,3998.63,1404.92,27-02-2020,11-03-2020
+803708,61,Female,Fracture - Arm,Injury,Medicaid,Unity Clinic,Golden Valley Hospital,77623,25478.67,0.7,17835.07,7643.6,12-05-2020,21-05-2020
+400065,62,Other,Fracture - Arm,Injury,Commercial,Metro Hospital,General Hospital,77979,3963.7,0.86,3408.78,554.92,07-01-2020,10-01-2020
+673404,41,Female,Arthritis,Chronic,Employer Plan,BlueRiver Medical,Golden Valley Hospital,85141,10102.29,0.81,8182.85,1919.44,14-02-2020,27-02-2020
+515941,70,Other,Heart Failure,Critical,Commercial,Unity Clinic,Golden Valley Hospital,80604,2693.59,0.74,1993.26,700.33,07-01-2021,15-01-2021
+233021,66,Male,Pneumonia,Acute,Medicare,CityCare Specialists,MountainView Health,86508,26474.33,0.51,13501.91,12972.42,26-11-2023,01-12-2023
+133298,59,Female,Influenza,Infectious,Employer Plan,PrimeCare Hospital,St. Mary Medical Center,75156,16479.01,0.74,12194.47,4284.54,12-07-2023,20-07-2023
+734795,63,Other,Migraine,Neurological,Commercial,Sunrise Health,Golden Valley Hospital,91446,8304.83,0.9,7474.35,830.48,05-12-2022,11-12-2022
+982171,63,Other,Migraine,Neurological,Commercial,BlueRiver Medical,Riverside Hospital,79243,19998.8,0.67,13399.2,6599.6,25-05-2021,07-06-2021
+689643,64,Female,Migraine,Neurological,Commercial,Metro Hospital,City Medical Plaza,90841,28243.31,0.94,26548.71,1694.6,16-01-2020,28-01-2020
